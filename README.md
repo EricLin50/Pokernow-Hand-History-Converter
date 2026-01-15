@@ -7,4 +7,6 @@ python pokernow_to_pokerstars.py input_file output_file "Hero Name"
 
 in terminal
 
+Example
+
 python pokernow_to_pokerstars.py entire_game.json entire_game_output.txt "AAA"
