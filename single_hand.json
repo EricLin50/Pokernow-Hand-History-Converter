@@ -1,0 +1,278 @@
+{
+  "generatedAt": "2024-01-01T00:00:00.000Z",
+  "playerId": "P000",
+  "gameId": "GAME_ID_001",
+  "hands": [
+    {
+      "id": "s4q2rvtw9gk9",
+      "handVersion": 2,
+      "number": "183",
+      "gameType": "th",
+      "cents": true,
+      "smallBlind": 50,
+      "bigBlind": 100,
+      "ante": null,
+      "straddleSeat": null,
+      "dealerSeat": 6,
+      "startedAt": 1704078180000,
+      "bombPot": false,
+      "sevenDeuceBounty": null,
+      "doubleBoard": null,
+      "players": [
+        {
+          "id": "P333",
+          "seat": 1,
+          "name": "DDD",
+          "stack": 24924
+        },
+        {
+          "id": "P444",
+          "seat": 3,
+          "name": "EEE",
+          "stack": 20000
+        },
+        {
+          "id": "P555",
+          "seat": 6,
+          "name": "FFF",
+          "stack": 31487
+        },
+        {
+          "id": "P001",
+          "seat": 7,
+          "name": "AAA",
+          "stack": 7247,
+          "hand": [
+            "Th",
+            "Ac"
+          ]
+        },
+        {
+          "id": "P222",
+          "seat": 8,
+          "name": "CCC",
+          "stack": 124322
+        },
+        {
+          "id": "P111",
+          "seat": 10,
+          "name": "BBB",
+          "stack": 10000
+        }
+      ],
+      "events": [
+        {
+          "at": 1704078180000,
+          "payload": {
+            "type": 3,
+            "seat": 7,
+            "value": 50
+          }
+        },
+        {
+          "at": 1704078180101,
+          "payload": {
+            "type": 2,
+            "seat": 8,
+            "value": 100
+          }
+        },
+        {
+          "at": 1704078181554,
+          "payload": {
+            "type": 11,
+            "seat": 10
+          }
+        },
+        {
+          "at": 1704078182616,
+          "payload": {
+            "type": 11,
+            "seat": 1
+          }
+        },
+        {
+          "at": 1704078184249,
+          "payload": {
+            "type": 8,
+            "seat": 3,
+            "value": 200
+          }
+        },
+        {
+          "at": 1704078186916,
+          "payload": {
+            "type": 11,
+            "seat": 6
+          }
+        },
+        {
+          "at": 1704078193824,
+          "payload": {
+            "type": 8,
+            "seat": 7,
+            "value": 800
+          }
+        },
+        {
+          "at": 1704078194868,
+          "payload": {
+            "type": 11,
+            "seat": 8
+          }
+        },
+        {
+          "at": 1704078197020,
+          "payload": {
+            "type": 7,
+            "seat": 3,
+            "value": 800
+          }
+        },
+        {
+          "at": 1704078197936,
+          "payload": {
+            "type": 9,
+            "turn": 1,
+            "run": 1,
+            "cards": [
+              "Ts",
+              "Jc",
+              "9c"
+            ],
+            "handsLabels": {
+              "7": [
+                {
+                  "c": 9,
+                  "d": [
+                    "10"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "at": 1704078202814,
+          "payload": {
+            "type": 0,
+            "seat": 7
+          }
+        },
+        {
+          "at": 1704078204105,
+          "payload": {
+            "type": 0,
+            "seat": 3
+          }
+        },
+        {
+          "at": 1704078205038,
+          "payload": {
+            "type": 9,
+            "turn": 2,
+            "run": 1,
+            "cards": [
+              "9h"
+            ],
+            "handsLabels": {
+              "7": [
+                {
+                  "c": 8,
+                  "d": [
+                    "10",
+                    "9"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "at": 1704078218416,
+          "payload": {
+            "type": 8,
+            "seat": 7,
+            "value": 750
+          }
+        },
+        {
+          "at": 1704078219871,
+          "payload": {
+            "type": 7,
+            "seat": 3,
+            "value": 750
+          }
+        },
+        {
+          "at": 1704078220806,
+          "payload": {
+            "type": 9,
+            "turn": 3,
+            "run": 1,
+            "cards": [
+              "7s"
+            ],
+            "handsLabels": {
+              "7": [
+                {
+                  "c": 8,
+                  "d": [
+                    "10",
+                    "9"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "at": 1704078226064,
+          "payload": {
+            "type": 0,
+            "seat": 7
+          }
+        },
+        {
+          "at": 1704078230417,
+          "payload": {
+            "type": 8,
+            "seat": 3,
+            "value": 1450
+          }
+        },
+        {
+          "at": 1704078248124,
+          "payload": {
+            "type": 11,
+            "seat": 7
+          }
+        },
+        {
+          "at": 1704078249047,
+          "payload": {
+            "type": 16,
+            "value": 1450,
+            "seat": 3
+          }
+        },
+        {
+          "at": 1704078249148,
+          "payload": {
+            "type": 15
+          }
+        },
+        {
+          "at": 1704078249249,
+          "payload": {
+            "type": 10,
+            "seat": 3,
+            "value": 3200,
+            "pot": 3200,
+            "position": 1
+          }
+        }
+      ]
+    }
+  ]
+}

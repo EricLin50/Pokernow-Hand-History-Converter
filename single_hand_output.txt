@@ -1,0 +1,43 @@
+PokerStarsCollection Hand #7671524548914174402:  Hold'em No Limit ($0.50/$1.00 USD) - 2024/01/01 03:03:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: DDD ($249.24 in chips) 
+Seat 2: EEE ($200.00 in chips) 
+Seat 3: FFF ($314.87 in chips) 
+Seat 4: AAA ($72.47 in chips) 
+Seat 5: CCC ($1243.22 in chips) 
+Seat 6: BBB ($100.00 in chips) 
+AAA: posts small blind $0.50 
+CCC: posts big blind $1.00 
+*** HOLE CARDS ***
+Dealt to AAA [Th Ac]
+BBB: folds 
+DDD: folds 
+EEE: raises $1.00 to $2.00 
+FFF: folds 
+AAA: raises $6.00 to $8.00 
+CCC: folds 
+EEE: calls $8.00 
+*** FLOP *** [Ts Jc 9c]
+AAA: checks 
+EEE: checks 
+*** TURN *** [Ts Jc 9c] [9h]
+AAA: bets $7.50 
+EEE: calls $7.50 
+*** RIVER *** [Ts Jc 9c 9h] [7s]
+AAA: checks 
+EEE: bets $14.50 
+AAA: folds 
+EEE collected $32.00 from pot
+EEE: doesn't show hand 
+*** SUMMARY ***
+Total pot $32.00 | Rake $0.00 
+Board [Ts Jc 9c 9h 7s]
+Seat 1: DDD folded before Flop (didn't bet)
+Seat 2: EEE collected ($32.00)
+Seat 3: FFF (button) folded before Flop (didn't bet)
+Seat 4: AAA (small blind) folded on the River
+Seat 5: CCC (big blind) folded before Flop (didn't bet)
+Seat 6: BBB folded before Flop (didn't bet)
+
+
+

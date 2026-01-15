@@ -1,0 +1,4414 @@
+PokerStarsCollection Hand #352568771282770361:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:06:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #8 is the button
+Seat 1: FFF ($20.95 in chips) 
+Seat 2: AAA ($50.00 in chips) 
+Seat 3: DDD ($68.84 in chips) 
+Seat 4: NNN ($174.95 in chips) 
+Seat 5: KKK ($229.08 in chips) 
+Seat 6: GGG ($65.99 in chips) 
+Seat 7: BBB ($76.04 in chips) 
+Seat 8: EEE ($52.44 in chips) 
+Seat 9: MMM ($111.71 in chips) 
+MMM: posts small blind $0.25 
+FFF: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [4d 5s]
+AAA: folds 
+DDD: raises $0.93 to $1.43 
+NNN: folds 
+KKK: folds 
+GGG: folds 
+BBB: folds 
+EEE: calls $1.43 
+MMM: folds 
+FFF: calls $1.43 
+*** FLOP *** [2c Ad 3c]
+FFF: checks 
+DDD: bets $2.20 
+EEE: folds 
+FFF: raises $17.32 to $19.52 
+DDD: folds 
+Uncalled bet ($19.52) returned to FFF
+FFF collected $8.94 from pot
+FFF: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.94 | Rake $0.00 
+Board [2c Ad 3c]
+Seat 1: FFF (big blind) collected ($8.94)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded on the Flop
+Seat 4: NNN folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: GGG folded before Flop (didn't bet)
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: EEE (button) folded on the Flop
+Seat 9: MMM (small blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #4198144880233278171:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:07:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #9 is the button
+Seat 1: FFF ($26.26 in chips) 
+Seat 2: AAA ($50.00 in chips) 
+Seat 3: DDD ($65.21 in chips) 
+Seat 4: NNN ($174.95 in chips) 
+Seat 5: KKK ($229.08 in chips) 
+Seat 6: GGG ($65.99 in chips) 
+Seat 7: BBB ($76.04 in chips) 
+Seat 8: EEE ($51.01 in chips) 
+Seat 9: MMM ($111.46 in chips) 
+FFF: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [4c Ah]
+DDD: folds 
+NNN: raises $1.25 to $1.75 
+KKK: folds 
+GGG: raises $4.25 to $6.00 
+BBB: folds 
+EEE: folds 
+MMM: folds 
+FFF: folds 
+AAA: folds 
+NNN: calls $6.00 
+*** FLOP *** [Qc As Qh]
+NNN: checks 
+GGG: checks 
+*** TURN *** [Qc As Qh] [8h]
+NNN: checks 
+GGG: checks 
+*** RIVER *** [Qc As Qh 8h] [8c]
+NNN: bets $4.87 
+GGG: calls $4.87 
+*** SHOW DOWN ***
+NNN: shows [Ts Ad]
+NNN collected $22.49 from pot
+*** SUMMARY ***
+Total pot $22.49 | Rake $0.00 
+Board [Qc As Qh 8h 8c]
+Seat 1: FFF (small blind) folded before Flop (didn't bet)
+Seat 2: AAA (big blind) folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: NNN showed [Ts Ad] and won ($22.49)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: GGG
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: EEE folded before Flop (didn't bet)
+Seat 9: MMM (button) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #3687066916769013156:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:08:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: FFF ($26.01 in chips) 
+Seat 2: AAA ($49.50 in chips) 
+Seat 3: DDD ($65.21 in chips) 
+Seat 4: NNN ($186.57 in chips) 
+Seat 5: KKK ($229.08 in chips) 
+Seat 6: GGG ($55.12 in chips) 
+Seat 7: BBB ($76.04 in chips) 
+Seat 8: EEE ($51.01 in chips) 
+Seat 9: MMM ($111.46 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Jd Ac]
+NNN: folds 
+KKK: folds 
+GGG: calls $0.50 
+BBB: raises $2.25 to $2.75 
+EEE: folds 
+MMM: folds 
+FFF: folds 
+AAA: raises $8.25 to $11.00 
+DDD: folds 
+GGG: folds 
+BBB: calls $11.00 
+*** FLOP *** [2c 3d 9h]
+AAA: checks 
+BBB: checks 
+*** TURN *** [2c 3d 9h] [8s]
+AAA: bets $6.00 
+BBB: calls $6.00 
+*** RIVER *** [2c 3d 9h 8s] [7s]
+AAA: bets $32.50 
+BBB: folds 
+*** SHOW DOWN ***
+AAA collected $35.00 from pot
+AAA: doesn't show hand 
+KKK: shows [2s 3c]
+*** SUMMARY ***
+Total pot $35.00 | Rake $0.00 
+Board [2c 3d 9h 8s 7s]
+Seat 1: FFF (button) folded before Flop (didn't bet)
+Seat 2: AAA (small blind) collected ($35.00)
+Seat 3: DDD (big blind) folded before Flop (didn't bet)
+Seat 4: NNN folded before Flop (didn't bet)
+Seat 5: KKK showed [2s 3c] and lost
+Seat 6: GGG folded before Flop (didn't bet)
+Seat 7: BBB folded on the River
+Seat 8: EEE folded before Flop (didn't bet)
+Seat 9: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #730257775066562112:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:09:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: FFF ($26.01 in chips) 
+Seat 2: AAA ($67.50 in chips) 
+Seat 3: DDD ($64.71 in chips) 
+Seat 4: NNN ($186.57 in chips) 
+Seat 5: KKK ($229.08 in chips) 
+Seat 6: GGG ($54.62 in chips) 
+Seat 7: BBB ($59.04 in chips) 
+Seat 8: EEE ($51.01 in chips) 
+Seat 9: MMM ($111.46 in chips) 
+DDD: posts small blind $0.25 
+NNN: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [6h 4c]
+KKK: folds 
+GGG: folds 
+BBB: folds 
+EEE: folds 
+MMM: raises $1.50 to $2.00 
+FFF: folds 
+AAA: folds 
+DDD: calls $2.00 
+NNN: calls $2.00 
+*** FLOP *** [Jd Jh 7d]
+DDD: checks 
+NNN: checks 
+MMM: bets $3.00 
+DDD: folds 
+NNN: calls $3.00 
+*** TURN *** [Jd Jh 7d] [9d]
+NNN: checks 
+MMM: bets $6.00 
+NNN: calls $6.00 
+*** RIVER *** [Jd Jh 7d 9d] [5h]
+NNN: checks 
+MMM: bets $12.00 
+NNN: calls $12.00 
+*** SHOW DOWN ***
+MMM: shows [Ah 9h]
+MMM collected $48.00 from pot
+*** SUMMARY ***
+Total pot $48.00 | Rake $0.00 
+Board [Jd Jh 7d 9d 5h]
+Seat 1: FFF folded before Flop (didn't bet)
+Seat 2: AAA (button) folded before Flop (didn't bet)
+Seat 3: DDD (small blind) folded on the Flop
+Seat 4: NNN (big blind)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: GGG folded before Flop (didn't bet)
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: EEE folded before Flop (didn't bet)
+Seat 9: MMM showed [Ah 9h] and won ($48.00)
+
+
+
+PokerStarsCollection Hand #1794227776148850493:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:10:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: FFF ($26.01 in chips) 
+Seat 2: AAA ($67.50 in chips) 
+Seat 3: DDD ($62.71 in chips) 
+Seat 4: NNN ($163.57 in chips) 
+Seat 5: KKK ($229.08 in chips) 
+Seat 6: GGG ($54.62 in chips) 
+Seat 7: BBB ($59.04 in chips) 
+Seat 8: EEE ($51.01 in chips) 
+Seat 9: MMM ($136.46 in chips) 
+NNN: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Qc Kd]
+GGG: folds 
+BBB: raises $0.93 to $1.43 
+EEE: raises $1.80 to $3.23 
+MMM: folds 
+FFF: folds 
+AAA: folds 
+DDD: folds 
+NNN: raises $8.39 to $11.62 
+KKK: folds 
+BBB: folds 
+EEE: calls $11.62 
+*** FLOP *** [Jd 9h Td]
+NNN: checks 
+EEE: checks 
+*** TURN *** [Jd 9h Td] [3d]
+NNN: bets $12.58 
+EEE: calls $12.58 
+*** RIVER *** [Jd 9h Td 3d] [Ah]
+NNN: checks 
+EEE: checks 
+*** SHOW DOWN ***
+NNN: shows [Ac Kh]
+EEE: shows [Kc As]
+NNN collected $25.17 from pot
+EEE collected $25.16 from pot
+*** SUMMARY ***
+Total pot $50.33 | Rake $0.00 
+Board [Jd 9h Td 3d Ah]
+Seat 1: FFF folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) folded before Flop (didn't bet)
+Seat 4: NNN (small blind) showed [Ac Kh] and won ($25.17)
+Seat 5: KKK (big blind) folded before Flop (didn't bet)
+Seat 6: GGG folded before Flop (didn't bet)
+Seat 7: BBB folded before Flop
+Seat 8: EEE showed [Kc As] and won ($25.16)
+Seat 9: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #5125827117086430116:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:11:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: FFF ($26.01 in chips) 
+Seat 2: AAA ($67.50 in chips) 
+Seat 3: DDD ($62.71 in chips) 
+Seat 4: NNN ($164.54 in chips) 
+Seat 5: KKK ($228.58 in chips) 
+Seat 6: GGG ($54.62 in chips) 
+Seat 7: BBB ($57.61 in chips) 
+Seat 8: EEE ($51.97 in chips) 
+Seat 9: MMM ($136.46 in chips) 
+KKK: posts small blind $0.25 
+GGG: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [2s 4h]
+BBB: folds 
+EEE: folds 
+MMM: folds 
+FFF: folds 
+AAA: folds 
+DDD: folds 
+NNN: folds 
+KKK: raises $1.00 to $1.50 
+GGG: raises $2.50 to $4.00 
+KKK: calls $4.00 
+*** FLOP *** [Ac 7h Jh]
+KKK: checks 
+GGG: bets $3.00 
+KKK: calls $3.00 
+*** TURN *** [Ac 7h Jh] [3d]
+KKK: checks 
+GGG: checks 
+*** RIVER *** [Ac 7h Jh 3d] [6h]
+KKK: checks 
+GGG: bets $12.00 
+KKK: calls $12.00 
+*** SHOW DOWN ***
+GGG: shows [9s Kh]
+KKK: shows [Qc Ks]
+KKK collected $38.00 from pot
+*** SUMMARY ***
+Total pot $38.00 | Rake $0.00 
+Board [Ac 7h Jh 3d 6h]
+Seat 1: FFF folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: NNN (button) folded before Flop (didn't bet)
+Seat 5: KKK (small blind) showed [Qc Ks] and won ($38.00)
+Seat 6: GGG (big blind) showed [9s Kh] and lost
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: EEE folded before Flop (didn't bet)
+Seat 9: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2637447953802979507:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:12:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: FFF ($26.01 in chips) 
+Seat 2: AAA ($67.50 in chips) 
+Seat 3: DDD ($62.71 in chips) 
+Seat 4: NNN ($164.54 in chips) 
+Seat 5: KKK ($247.58 in chips) 
+Seat 6: GGG ($35.62 in chips) 
+Seat 7: BBB ($57.61 in chips) 
+Seat 8: EEE ($51.97 in chips) 
+Seat 9: MMM ($136.46 in chips) 
+GGG: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [4s 4h]
+EEE: folds 
+MMM: raises $2.00 to $2.50 
+FFF: folds 
+AAA: folds 
+DDD: folds 
+NNN: folds 
+KKK: folds 
+GGG: calls $2.50 
+BBB: calls $2.50 
+*** FLOP *** [Kh 3s 7h]
+GGG: checks 
+BBB: checks 
+MMM: bets $3.00 
+GGG: folds 
+BBB: calls $3.00 
+*** TURN *** [Kh 3s 7h] [8s]
+BBB: checks 
+MMM: bets $6.00 
+BBB: raises $46.11 to $52.11 
+MMM: calls $52.11 
+BBB: shows [Qs 7s]
+MMM: shows [Ah Kd]
+*** RIVER *** [Kh 3s 7h 8s] [As]
+*** RIVER *** [Kh 3s 7h 8s As] [2c]
+*** SHOW DOWN ***
+BBB collected $58.86 from pot
+MMM collected $58.86 from pot
+*** SUMMARY ***
+Total pot $58.86 | Rake $-58.86 
+Board [Kh 3s 7h 8s As 2c]
+Seat 1: FFF folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: NNN folded before Flop (didn't bet)
+Seat 5: KKK (button) folded before Flop (didn't bet)
+Seat 6: GGG (small blind) folded on the Flop
+Seat 7: BBB (big blind) showed [Qs 7s] and won ($58.86)
+Seat 8: EEE folded before Flop (didn't bet)
+Seat 9: MMM showed [Ah Kd] and won ($58.86)
+
+
+
+PokerStarsCollection Hand #3745790096091899767:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:13:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: FFF ($26.01 in chips) 
+Seat 2: AAA ($67.50 in chips) 
+Seat 3: DDD ($62.71 in chips) 
+Seat 4: NNN ($164.54 in chips) 
+Seat 5: KKK ($247.58 in chips) 
+Seat 6: GGG ($33.12 in chips) 
+Seat 7: BBB ($58.86 in chips) 
+Seat 8: EEE ($51.97 in chips) 
+Seat 9: MMM ($137.71 in chips) 
+BBB: posts small blind $0.25 
+EEE: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [3s 9h]
+MMM: folds 
+FFF: folds 
+AAA: folds 
+DDD: raises $0.93 to $1.43 
+NNN: folds 
+KKK: raises $3.11 to $4.54 
+GGG: folds 
+BBB: folds 
+EEE: folds 
+DDD: calls $4.54 
+*** FLOP *** [Jd Qc 7h]
+DDD: checks 
+KKK: bets $4.91 
+DDD: folds 
+Uncalled bet ($4.91) returned to KKK
+KKK collected $9.83 from pot
+KKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.83 | Rake $0.00 
+Board [Jd Qc 7h]
+Seat 1: FFF folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded on the Flop
+Seat 4: NNN folded before Flop (didn't bet)
+Seat 5: KKK collected ($9.83)
+Seat 6: GGG (button) folded before Flop (didn't bet)
+Seat 7: BBB (small blind) folded before Flop (didn't bet)
+Seat 8: EEE (big blind) folded before Flop (didn't bet)
+Seat 9: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #3019741966120884051:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:14:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #7 is the button
+Seat 1: FFF ($26.01 in chips) 
+Seat 2: AAA ($67.50 in chips) 
+Seat 3: DDD ($58.17 in chips) 
+Seat 4: NNN ($164.54 in chips) 
+Seat 5: KKK ($252.87 in chips) 
+Seat 6: GGG ($33.12 in chips) 
+Seat 7: BBB ($58.61 in chips) 
+Seat 8: EEE ($51.47 in chips) 
+Seat 9: MMM ($137.71 in chips) 
+EEE: posts small blind $0.25 
+MMM: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Jc 8h]
+FFF: raises $1.00 to $1.50 
+AAA: folds 
+DDD: raises $3.75 to $5.25 
+NNN: folds 
+KKK: folds 
+GGG: folds 
+BBB: folds 
+EEE: folds 
+MMM: folds 
+FFF: calls $5.25 
+*** FLOP *** [9s Ts Kh]
+FFF: checks 
+DDD: bets $4.00 
+FFF: calls $4.00 
+*** TURN *** [9s Ts Kh] [Qs]
+FFF: checks 
+DDD: checks 
+*** RIVER *** [9s Ts Kh Qs] [Qh]
+FFF: bets $16.76 
+DDD: calls $16.76 
+*** SHOW DOWN ***
+FFF: shows [Qd 9d]
+DDD: shows [Kd Ks]
+DDD collected $52.77 from pot
+*** SUMMARY ***
+Total pot $52.77 | Rake $0.00 
+Board [9s Ts Kh Qs Qh]
+Seat 1: FFF showed [Qd 9d] and lost
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD showed [Kd Ks] and won ($52.77)
+Seat 4: NNN folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: GGG folded before Flop (didn't bet)
+Seat 7: BBB (button) folded before Flop (didn't bet)
+Seat 8: EEE (small blind) folded before Flop (didn't bet)
+Seat 9: MMM (big blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #8480569821550809110:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:15:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #7 is the button
+Seat 1: AAA ($67.50 in chips) 
+Seat 2: DDD ($84.93 in chips) 
+Seat 3: NNN ($164.54 in chips) 
+Seat 4: KKK ($252.87 in chips) 
+Seat 5: GGG ($33.12 in chips) 
+Seat 6: BBB ($58.61 in chips) 
+Seat 7: EEE ($51.22 in chips) 
+Seat 8: MMM ($137.21 in chips) 
+MMM: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [5c 9c]
+DDD: folds 
+NNN: folds 
+KKK: folds 
+GGG: calls $0.50 
+BBB: folds 
+EEE: folds 
+MMM: raises $1.00 to $1.50 
+AAA: calls $1.50 
+GGG: calls $1.50 
+*** FLOP *** [7h Td Ts]
+MMM: checks 
+AAA: checks 
+GGG: checks 
+*** TURN *** [7h Td Ts] [Kc]
+MMM: checks 
+AAA: checks 
+GGG: checks 
+*** RIVER *** [7h Td Ts Kc] [Qd]
+MMM: checks 
+AAA: checks 
+GGG: checks 
+*** SHOW DOWN ***
+MMM: shows [6d Js]
+MMM collected $4.50 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00 
+Board [7h Td Ts Kc Qd]
+Seat 1: AAA (big blind)
+Seat 2: DDD folded before Flop (didn't bet)
+Seat 3: NNN folded before Flop (didn't bet)
+Seat 4: KKK folded before Flop (didn't bet)
+Seat 5: GGG
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: EEE (button) folded before Flop (didn't bet)
+Seat 8: MMM (small blind) showed [6d Js] and won ($4.50)
+
+
+
+PokerStarsCollection Hand #8446624597626296625:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:16:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #8 is the button
+Seat 1: AAA ($66.00 in chips) 
+Seat 2: DDD ($84.93 in chips) 
+Seat 3: NNN ($164.54 in chips) 
+Seat 4: KKK ($252.87 in chips) 
+Seat 5: GGG ($31.62 in chips) 
+Seat 6: BBB ($58.61 in chips) 
+Seat 7: EEE ($51.22 in chips) 
+Seat 8: MMM ($140.21 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Tc 3d]
+NNN: folds 
+KKK: folds 
+GGG: folds 
+BBB: raises $0.93 to $1.43 
+EEE: folds 
+MMM: raises $2.93 to $4.36 
+AAA: folds 
+DDD: folds 
+BBB: calls $4.36 
+*** FLOP *** [8s Td 4c]
+BBB: checks 
+MMM: bets $6.00 
+BBB: folds 
+Uncalled bet ($6.00) returned to MMM
+*** SHOW DOWN ***
+MMM collected $9.47 from pot
+MMM: doesn't show hand 
+MMM: shows [7c 2h]
+*** SUMMARY ***
+Total pot $9.47 | Rake $0.00 
+Board [8s Td 4c]
+Seat 1: AAA (small blind) folded before Flop (didn't bet)
+Seat 2: DDD (big blind) folded before Flop (didn't bet)
+Seat 3: NNN folded before Flop (didn't bet)
+Seat 4: KKK folded before Flop (didn't bet)
+Seat 5: GGG folded before Flop (didn't bet)
+Seat 6: BBB folded on the Flop
+Seat 7: EEE folded before Flop (didn't bet)
+Seat 8: MMM (button) showed [7c 2h] and won ($9.47)
+
+
+
+PokerStarsCollection Hand #7765294600066417494:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:17:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: AAA ($64.25 in chips) 
+Seat 2: DDD ($82.93 in chips) 
+Seat 3: NNN ($163.04 in chips) 
+Seat 4: KKK ($251.37 in chips) 
+Seat 5: GGG ($30.12 in chips) 
+Seat 6: BBB ($52.75 in chips) 
+Seat 7: EEE ($49.72 in chips) 
+Seat 8: MMM ($155.82 in chips) 
+DDD: posts small blind $0.25 
+NNN: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Qc Qh]
+KKK: folds 
+GGG: calls $0.50 
+BBB: calls $0.50 
+EEE: folds 
+MMM: folds 
+AAA: raises $2.50 to $3.00 
+DDD: folds 
+NNN: raises $6.50 to $9.50 
+GGG: folds 
+BBB: calls $9.50 
+AAA: raises $14.50 to $24.00 
+NNN: folds 
+BBB: calls $24.00 
+*** FLOP *** [4h Kc Ac]
+BBB: checks 
+AAA: bets $10.00 
+BBB: raises $18.75 to $28.75 
+AAA: folds 
+Uncalled bet ($28.75) returned to BBB
+BBB collected $78.25 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $78.25 | Rake $0.00 
+Board [4h Kc Ac]
+Seat 1: AAA (button) folded on the Flop
+Seat 2: DDD (small blind) folded before Flop (didn't bet)
+Seat 3: NNN (big blind) folded before Flop
+Seat 4: KKK folded before Flop (didn't bet)
+Seat 5: GGG folded before Flop (didn't bet)
+Seat 6: BBB collected ($78.25)
+Seat 7: EEE folded before Flop (didn't bet)
+Seat 8: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2147148214378444066:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:18:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: AAA ($30.25 in chips) 
+Seat 2: DDD ($82.68 in chips) 
+Seat 3: NNN ($153.54 in chips) 
+Seat 4: KKK ($251.37 in chips) 
+Seat 5: GGG ($29.62 in chips) 
+Seat 6: BBB ($97.00 in chips) 
+Seat 7: EEE ($49.72 in chips) 
+Seat 8: MMM ($155.82 in chips) 
+NNN: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [8h Qh]
+GGG: calls $0.50 
+BBB: folds 
+EEE: folds 
+MMM: raises $2.00 to $2.50 
+AAA: folds 
+DDD: folds 
+NNN: calls $2.50 
+KKK: folds 
+GGG: calls $2.50 
+*** FLOP *** [Jh 5h 9s]
+NNN: checks 
+GGG: checks 
+MMM: checks 
+*** TURN *** [Jh 5h 9s] [Qs]
+NNN: checks 
+GGG: bets $3.00 
+MMM: calls $3.00 
+NNN: calls $3.00 
+*** RIVER *** [Jh 5h 9s Qs] [9d]
+NNN: checks 
+GGG: folds 
+MMM: bets $7.50 
+NNN: raises $7.50 to $15.00 
+MMM: calls $15.00 
+*** SHOW DOWN ***
+NNN: shows [8c 9c]
+NNN collected $47.00 from pot
+*** SUMMARY ***
+Total pot $47.00 | Rake $0.00 
+Board [Jh 5h 9s Qs 9d]
+Seat 1: AAA folded before Flop (didn't bet)
+Seat 2: DDD (button) folded before Flop (didn't bet)
+Seat 3: NNN (small blind) showed [8c 9c] and won ($47.00)
+Seat 4: KKK (big blind) folded before Flop (didn't bet)
+Seat 5: GGG folded on the River
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: EEE folded before Flop (didn't bet)
+Seat 8: MMM
+
+
+
+PokerStarsCollection Hand #5718164600569559831:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:19:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: AAA ($30.25 in chips) 
+Seat 2: DDD ($82.68 in chips) 
+Seat 3: NNN ($180.04 in chips) 
+Seat 4: KKK ($250.87 in chips) 
+Seat 5: GGG ($24.12 in chips) 
+Seat 6: BBB ($97.00 in chips) 
+Seat 7: EEE ($49.72 in chips) 
+Seat 8: MMM ($135.32 in chips) 
+KKK: posts small blind $0.25 
+GGG: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [3h Ts]
+BBB: folds 
+EEE: raises $1.25 to $1.75 
+MMM: folds 
+AAA: folds 
+DDD: calls $1.75 
+NNN: calls $1.75 
+KKK: folds 
+GGG: calls $1.75 
+*** FLOP *** [Kd Tc 5h]
+GGG: checks 
+EEE: bets $3.62 
+DDD: folds 
+NNN: calls $3.62 
+GGG: calls $3.62 
+*** TURN *** [Kd Tc 5h] [Kh]
+GGG: checks 
+EEE: bets $9.05 
+NNN: raises $18.10 to $27.15 
+GGG: folds 
+EEE: raises $17.20 to $44.35 
+NNN: calls $44.35 
+NNN: shows [9d Ks]
+EEE: shows [Kc Ac]
+*** RIVER *** [Kd Tc 5h Kh] [8c]
+*** SHOW DOWN ***
+EEE collected $106.81 from pot
+BBB: shows [Th 5c]
+*** SUMMARY ***
+Total pot $106.81 | Rake $0.00 
+Board [Kd Tc 5h Kh 8c]
+Seat 1: AAA folded before Flop (didn't bet)
+Seat 2: DDD folded on the Flop
+Seat 3: NNN (button) showed [9d Ks] and lost
+Seat 4: KKK (small blind) folded before Flop (didn't bet)
+Seat 5: GGG (big blind) folded on the Turn
+Seat 6: BBB showed [Th 5c] and lost
+Seat 7: EEE showed [Kc Ac] and won ($106.81)
+Seat 8: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #1435457469036594086:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:20:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($100.00 in chips) 
+Seat 2: AAA ($30.25 in chips) 
+Seat 3: DDD ($80.93 in chips) 
+Seat 4: NNN ($130.32 in chips) 
+Seat 5: KKK ($250.62 in chips) 
+Seat 6: GGG ($18.75 in chips) 
+Seat 7: BBB ($97.00 in chips) 
+Seat 8: EEE ($106.81 in chips) 
+Seat 9: MMM ($135.32 in chips) 
+GGG: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [3s 5h]
+EEE: calls $0.50 
+MMM: raises $2.00 to $2.50 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+NNN: folds 
+KKK: folds 
+GGG: calls $2.50 
+BBB: folds 
+EEE: calls $2.50 
+*** FLOP *** [8d 6h Th]
+GGG: checks 
+EEE: checks 
+MMM: checks 
+*** TURN *** [8d 6h Th] [9h]
+GGG: checks 
+EEE: checks 
+MMM: bets $2.50 
+GGG: calls $2.50 
+EEE: calls $2.50 
+*** RIVER *** [8d 6h Th 9h] [Ad]
+GGG: checks 
+EEE: checks 
+MMM: checks 
+*** SHOW DOWN ***
+GGG: shows [8c Jc]
+EEE: shows [Ac 8h]
+EEE collected $15.50 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.00 
+Board [8d 6h Th 9h Ad]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: NNN folded before Flop (didn't bet)
+Seat 5: KKK (button) folded before Flop (didn't bet)
+Seat 6: GGG (small blind) showed [8c Jc] and lost
+Seat 7: BBB (big blind) folded before Flop (didn't bet)
+Seat 8: EEE showed [Ac 8h] and won ($15.50)
+Seat 9: MMM
+
+
+
+PokerStarsCollection Hand #2405174982017287983:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:21:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($100.00 in chips) 
+Seat 2: AAA ($30.25 in chips) 
+Seat 3: DDD ($80.93 in chips) 
+Seat 4: NNN ($130.32 in chips) 
+Seat 5: KKK ($250.62 in chips) 
+Seat 6: GGG ($13.75 in chips) 
+Seat 7: BBB ($96.50 in chips) 
+Seat 8: EEE ($117.31 in chips) 
+Seat 9: MMM ($130.32 in chips) 
+BBB: posts small blind $0.25 
+EEE: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Ts As]
+MMM: folds 
+LLL: folds 
+AAA: raises $1.25 to $1.75 
+DDD: folds 
+NNN: calls $1.75 
+KKK: folds 
+GGG: folds 
+BBB: folds 
+EEE: folds 
+*** FLOP *** [7s 9s 9d]
+AAA: checks 
+NNN: bets $1.50 
+AAA: calls $1.50 
+*** TURN *** [7s 9s 9d] [Th]
+AAA: checks 
+NNN: checks 
+*** RIVER *** [7s 9s 9d Th] [9c]
+AAA: bets $10.00 
+NNN: raises $117.07 to $127.07 
+AAA: calls $27.00 
+*** SHOW DOWN ***
+NNN: shows [9h Kc]
+NNN collected $61.25 from pot
+AAA: shows [Ts As]
+*** SUMMARY ***
+Total pot $61.25 | Rake $0.00 
+Board [7s 9s 9d Th 9c]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA showed [Ts As] and lost
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: NNN showed [9h Kc] and won ($61.25)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: GGG (button) folded before Flop (didn't bet)
+Seat 7: BBB (small blind) folded before Flop (didn't bet)
+Seat 8: EEE (big blind) folded before Flop (didn't bet)
+Seat 9: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #5375561855335869945:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:24:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #8 is the button
+Seat 1: LLL ($99.00 in chips) 
+Seat 2: AAA ($50.00 in chips) 
+Seat 3: DDD ($98.68 in chips) 
+Seat 4: NNN ($161.32 in chips) 
+Seat 5: KKK ($250.62 in chips) 
+Seat 6: BBB ($94.75 in chips) 
+Seat 7: EEE ($116.06 in chips) 
+Seat 8: MMM ($129.57 in chips) 
+LLL: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [4d Ad]
+DDD: folds 
+NNN: folds 
+KKK: raises $0.93 to $1.43 
+BBB: folds 
+EEE: folds 
+MMM: folds 
+LLL: folds 
+AAA: raises $5.57 to $7.00 
+KKK: calls $7.00 
+*** FLOP *** [5h 9h Js]
+AAA: checks 
+KKK: checks 
+*** TURN *** [5h 9h Js] [Ts]
+AAA: checks 
+KKK: checks 
+*** RIVER *** [5h 9h Js Ts] [7d]
+AAA: checks 
+KKK: checks 
+*** SHOW DOWN ***
+AAA: shows [4d Ad]
+KKK: shows [Ah Kd]
+KKK collected $14.25 from pot
+*** SUMMARY ***
+Total pot $14.25 | Rake $0.00 
+Board [5h 9h Js Ts 7d]
+Seat 1: LLL (small blind) folded before Flop (didn't bet)
+Seat 2: AAA (big blind) showed [4d Ad] and lost
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: NNN folded before Flop (didn't bet)
+Seat 5: KKK showed [Ah Kd] and won ($14.25)
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: EEE folded before Flop (didn't bet)
+Seat 8: MMM (button) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #1891702993744217391:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:25:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($98.75 in chips) 
+Seat 2: AAA ($43.00 in chips) 
+Seat 3: DDD ($98.68 in chips) 
+Seat 4: NNN ($161.32 in chips) 
+Seat 5: KKK ($257.87 in chips) 
+Seat 6: BBB ($94.75 in chips) 
+Seat 7: EEE ($116.06 in chips) 
+Seat 8: MMM ($129.57 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Kh Ah]
+NNN: folds 
+KKK: folds 
+BBB: folds 
+EEE: calls $0.50 
+MMM: folds 
+LLL: folds 
+AAA: raises $2.50 to $3.00 
+DDD: calls $3.00 
+EEE: calls $3.00 
+*** FLOP *** [Ad 8h 7h]
+AAA: checks 
+DDD: checks 
+EEE: bets $4.50 
+AAA: calls $4.50 
+DDD: folds 
+*** TURN *** [Ad 8h 7h] [7s]
+AAA: checks 
+EEE: checks 
+*** RIVER *** [Ad 8h 7h 7s] [2c]
+AAA: bets $17.00 
+EEE: calls $17.00 
+*** SHOW DOWN ***
+AAA: shows [Kh Ah]
+AAA collected $52.00 from pot
+*** SUMMARY ***
+Total pot $52.00 | Rake $0.00 
+Board [Ad 8h 7h 7s 2c]
+Seat 1: LLL (button) folded before Flop (didn't bet)
+Seat 2: AAA (small blind) showed [Kh Ah] and won ($52.00)
+Seat 3: DDD (big blind) folded on the Flop
+Seat 4: NNN folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: EEE
+Seat 8: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #5292032860682140474:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:26:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($98.75 in chips) 
+Seat 2: AAA ($70.50 in chips) 
+Seat 3: DDD ($95.68 in chips) 
+Seat 4: NNN ($161.32 in chips) 
+Seat 5: KKK ($257.87 in chips) 
+Seat 6: BBB ($94.75 in chips) 
+Seat 7: EEE ($91.56 in chips) 
+Seat 8: MMM ($129.57 in chips) 
+DDD: posts small blind $0.25 
+NNN: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [8s 2c]
+KKK: folds 
+BBB: raises $0.93 to $1.43 
+EEE: folds 
+MMM: folds 
+LLL: calls $1.43 
+AAA: folds 
+DDD: calls $1.43 
+NNN: folds 
+*** FLOP *** [9h 4s 6h]
+DDD: checks 
+BBB: checks 
+LLL: bets $2.00 
+DDD: folds 
+BBB: calls $2.00 
+*** TURN *** [9h 4s 6h] [9d]
+BBB: checks 
+LLL: bets $5.00 
+BBB: folds 
+Uncalled bet ($5.00) returned to LLL
+*** SHOW DOWN ***
+LLL collected $8.79 from pot
+LLL: doesn't show hand 
+LLL: shows [Ah Ts]
+MMM: shows [9s 4d]
+*** SUMMARY ***
+Total pot $8.79 | Rake $0.00 
+Board [9h 4s 6h 9d]
+Seat 1: LLL showed [Ah Ts] and won ($8.79)
+Seat 2: AAA (button) folded before Flop (didn't bet)
+Seat 3: DDD (small blind) folded on the Flop
+Seat 4: NNN (big blind) folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB folded on the Turn
+Seat 7: EEE folded before Flop (didn't bet)
+Seat 8: MMM showed [9s 4d] and lost
+
+
+
+PokerStarsCollection Hand #869816650032013064:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:27:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($104.11 in chips) 
+Seat 2: AAA ($70.50 in chips) 
+Seat 3: DDD ($94.25 in chips) 
+Seat 4: NNN ($160.82 in chips) 
+Seat 5: KKK ($257.87 in chips) 
+Seat 6: FFF ($50.00 in chips) 
+Seat 7: BBB ($91.32 in chips) 
+Seat 8: EEE ($91.56 in chips) 
+Seat 9: MMM ($129.57 in chips) 
+NNN: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [3h 3s]
+FFF: folds 
+BBB: raises $0.93 to $1.43 
+EEE: folds 
+MMM: raises $1.07 to $2.50 
+LLL: raises $5.50 to $8.00 
+AAA: folds 
+DDD: folds 
+NNN: folds 
+KKK: folds 
+BBB: raises $14.00 to $22.00 
+MMM: folds 
+LLL: folds 
+BBB collected $19.25 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.25 | Rake $0.00 
+Seat 1: LLL folded before Flop
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) folded before Flop (didn't bet)
+Seat 4: NNN (small blind) folded before Flop (didn't bet)
+Seat 5: KKK (big blind) folded before Flop (didn't bet)
+Seat 6: FFF folded before Flop (didn't bet)
+Seat 7: BBB collected ($19.25)
+Seat 8: EEE folded before Flop (didn't bet)
+Seat 9: MMM folded before Flop
+
+
+
+PokerStarsCollection Hand #6963011806803609696:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:28:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($96.11 in chips) 
+Seat 2: AAA ($70.50 in chips) 
+Seat 3: DDD ($94.25 in chips) 
+Seat 4: NNN ($160.57 in chips) 
+Seat 5: KKK ($257.37 in chips) 
+Seat 6: FFF ($50.00 in chips) 
+Seat 7: BBB ($102.57 in chips) 
+Seat 8: EEE ($91.56 in chips) 
+Seat 9: MMM ($127.07 in chips) 
+KKK: posts small blind $0.25 
+FFF: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Js 7d]
+BBB: folds 
+EEE: folds 
+MMM: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+NNN: folds 
+KKK: raises $1.00 to $1.50 
+FFF: calls $1.50 
+*** FLOP *** [Kd 3s 4c]
+KKK: bets $1.50 
+FFF: folds 
+Uncalled bet ($1.50) returned to KKK
+*** SHOW DOWN ***
+KKK collected $3.00 from pot
+KKK: doesn't show hand 
+KKK: shows [2d]
+*** SUMMARY ***
+Total pot $3.00 | Rake $0.00 
+Board [Kd 3s 4c]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: NNN (button) folded before Flop (didn't bet)
+Seat 5: KKK (small blind) showed [2d] and won ($3.00)
+Seat 6: FFF (big blind) folded on the Flop
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: EEE folded before Flop (didn't bet)
+Seat 9: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2763692295712721099:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:29:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($96.11 in chips) 
+Seat 2: AAA ($70.50 in chips) 
+Seat 3: DDD ($94.25 in chips) 
+Seat 4: NNN ($160.57 in chips) 
+Seat 5: KKK ($258.87 in chips) 
+Seat 6: FFF ($48.50 in chips) 
+Seat 7: BBB ($102.57 in chips) 
+Seat 8: EEE ($91.56 in chips) 
+Seat 9: MMM ($127.07 in chips) 
+FFF: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Ac 6c]
+EEE: folds 
+MMM: folds 
+LLL: folds 
+AAA: raises $1.25 to $1.75 
+DDD: calls $1.75 
+NNN: folds 
+KKK: folds 
+FFF: calls $1.75 
+BBB: calls $1.75 
+*** FLOP *** [9s Jd Ks]
+FFF: checks 
+BBB: checks 
+AAA: checks 
+DDD: checks 
+*** TURN *** [9s Jd Ks] [Ah]
+FFF: checks 
+BBB: checks 
+AAA: checks 
+DDD: checks 
+*** RIVER *** [9s Jd Ks Ah] [3s]
+FFF: checks 
+BBB: checks 
+AAA: bets $2.00 
+DDD: folds 
+FFF: folds 
+BBB: folds 
+AAA collected $7.00 from pot
+AAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.00 | Rake $0.00 
+Board [9s Jd Ks Ah 3s]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA collected ($7.00)
+Seat 3: DDD folded on the River
+Seat 4: NNN folded before Flop (didn't bet)
+Seat 5: KKK (button) folded before Flop (didn't bet)
+Seat 6: FFF (small blind) folded on the River
+Seat 7: BBB (big blind) folded on the River
+Seat 8: EEE folded before Flop (didn't bet)
+Seat 9: MMM folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2388535656850257351:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:30:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($96.11 in chips) 
+Seat 2: AAA ($75.75 in chips) 
+Seat 3: DDD ($92.50 in chips) 
+Seat 4: NNN ($160.57 in chips) 
+Seat 5: KKK ($258.87 in chips) 
+Seat 6: FFF ($46.75 in chips) 
+Seat 7: BBB ($100.82 in chips) 
+Seat 8: MMM ($127.07 in chips) 
+*** HOLE CARDS ***
+Dealt to AAA [Kd Ad]
+AAA: calls $1.00 
+DDD: calls $1.00 
+NNN: calls $1.00 
+KKK: calls $1.00 
+FFF: calls $1.00 
+BBB: calls $1.00 
+MMM: calls $1.00 
+*** FLOP *** [6s 8s Ts]
+*** FLOP *** [5s 8h 6h]
+BBB: checks 
+MMM: checks 
+LLL: checks 
+AAA: checks 
+DDD: checks 
+NNN: checks 
+KKK: checks 
+FFF: checks 
+*** TURN *** [5s 8h 6h] [9d]
+*** TURN *** [5s 8h 6h 9d] [9s]
+BBB: checks 
+MMM: checks 
+LLL: checks 
+AAA: checks 
+DDD: checks 
+NNN: bets $4.00 
+KKK: folds 
+FFF: folds 
+BBB: folds 
+MMM: folds 
+LLL: calls $4.00 
+AAA: folds 
+DDD: calls $4.00 
+*** RIVER *** [5s 8h 6h 9d 9s] [2d]
+*** RIVER *** [5s 8h 6h 9d 9s 2d] [Qs]
+LLL: checks 
+DDD: checks 
+NNN: checks 
+*** SHOW DOWN ***
+LLL: shows [3c 7d]
+NNN: shows [7s Th]
+DDD: shows [Jd Td]
+LLL collected $5.00 from pot
+NNN collected $5.00 from pot
+DDD collected $10.00 from pot
+*** SUMMARY ***
+Total pot $10.00 | Rake $-10.00 
+Board [5s 8h 6h 9d 9s 2d Qs]
+Seat 1: LLL showed [3c 7d] and won ($5.00)
+Seat 2: AAA folded on the Turn
+Seat 3: DDD showed [Jd Td] and won ($10.00)
+Seat 4: NNN showed [7s Th] and won ($5.00)
+Seat 5: KKK folded on the Turn
+Seat 6: FFF (button) folded on the Turn
+Seat 7: BBB folded on the Turn
+Seat 8: MMM folded on the Turn
+
+
+
+PokerStarsCollection Hand #8161396849602702804:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:31:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #7 is the button
+Seat 1: LLL ($96.11 in chips) 
+Seat 2: AAA ($74.75 in chips) 
+Seat 3: DDD ($97.50 in chips) 
+Seat 4: NNN ($160.57 in chips) 
+Seat 5: KKK ($257.87 in chips) 
+Seat 6: FFF ($45.75 in chips) 
+Seat 7: BBB ($99.82 in chips) 
+Seat 8: MMM ($126.07 in chips) 
+*** HOLE CARDS ***
+DDD: calls $1.00 
+NNN: calls $1.00 
+KKK: calls $1.00 
+FFF: calls $1.00 
+BBB: calls $1.00 
+MMM: calls $1.00 
+LLL: calls $1.00 
+*** FLOP *** [5h Kd Qs]
+*** FLOP *** [3s Ad Ts]
+MMM: checks 
+LLL: checks 
+AAA: checks 
+DDD: checks 
+NNN: checks 
+KKK: checks 
+FFF: bets $8.00 
+BBB: folds 
+MMM: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+NNN: folds 
+KKK: folds 
+Uncalled bet ($8.00) returned to FFF
+FFF collected $8.00 from pot
+FFF: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.00 | Rake $0.00 
+Board [3s Ad Ts]
+Seat 1: LLL folded on the Flop
+Seat 2: AAA folded on the Flop
+Seat 3: DDD folded on the Flop
+Seat 4: NNN folded on the Flop
+Seat 5: KKK folded on the Flop
+Seat 6: FFF collected ($8.00)
+Seat 7: BBB (button) folded on the Flop
+Seat 8: MMM folded on the Flop
+
+
+
+PokerStarsCollection Hand #2309617152284465999:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:32:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #8 is the button
+Seat 1: LLL ($95.11 in chips) 
+Seat 2: AAA ($73.75 in chips) 
+Seat 3: DDD ($96.50 in chips) 
+Seat 4: NNN ($159.57 in chips) 
+Seat 5: KKK ($256.87 in chips) 
+Seat 6: FFF ($52.75 in chips) 
+Seat 7: BBB ($98.82 in chips) 
+Seat 8: MMM ($125.07 in chips) 
+*** HOLE CARDS ***
+NNN: calls $1.00 
+KKK: calls $1.00 
+FFF: calls $1.00 
+BBB: calls $1.00 
+MMM: calls $1.00 
+LLL: calls $1.00 
+AAA: calls $1.00 
+*** FLOP *** [8c Th 5c]
+*** FLOP *** [2c 7s Kd]
+LLL: checks 
+AAA: checks 
+DDD: checks 
+NNN: checks 
+KKK: checks 
+FFF: checks 
+BBB: checks 
+MMM: checks 
+*** TURN *** [2c 7s Kd] [4h]
+*** TURN *** [2c 7s Kd 4h] [3s]
+LLL: checks 
+AAA: checks 
+DDD: checks 
+NNN: checks 
+KKK: checks 
+FFF: bets $8.00 
+BBB: folds 
+MMM: folds 
+LLL: calls $8.00 
+AAA: calls $8.00 
+DDD: folds 
+NNN: folds 
+KKK: folds 
+*** RIVER *** [2c 7s Kd 4h 3s] [8h]
+*** RIVER *** [2c 7s Kd 4h 3s 8h] [5h]
+LLL: checks 
+AAA: checks 
+FFF: checks 
+*** SHOW DOWN ***
+LLL: shows [5s Kh 5d 6c]
+AAA: shows [Kc 9d Td Ts]
+AAA collected $16.00 from pot
+LLL collected $16.00 from pot
+FFF: shows [6s 7c 2h Ah]
+*** SUMMARY ***
+Total pot $16.00 | Rake $-16.00 
+Board [2c 7s Kd 4h 3s 8h 5h]
+Seat 1: LLL showed [5s Kh 5d 6c] and won ($16.00)
+Seat 2: AAA showed [Kc 9d Td Ts] and won ($16.00)
+Seat 3: DDD folded on the Turn
+Seat 4: NNN folded on the Turn
+Seat 5: KKK folded on the Turn
+Seat 6: FFF showed [6s 7c 2h Ah] and lost
+Seat 7: BBB folded on the Turn
+Seat 8: MMM (button) folded on the Turn
+
+
+
+PokerStarsCollection Hand #4730646145236058376:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:33:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($102.11 in chips) 
+Seat 2: AAA ($80.75 in chips) 
+Seat 3: DDD ($95.50 in chips) 
+Seat 4: NNN ($158.57 in chips) 
+Seat 5: KKK ($255.87 in chips) 
+Seat 6: FFF ($43.75 in chips) 
+Seat 7: BBB ($97.82 in chips) 
+Seat 8: MMM ($124.07 in chips) 
+*** HOLE CARDS ***
+KKK: calls $1.00 
+FFF: calls $1.00 
+BBB: calls $1.00 
+MMM: calls $1.00 
+LLL: calls $1.00 
+AAA: calls $1.00 
+DDD: calls $1.00 
+*** FLOP *** [2c 9d Qc]
+*** FLOP *** [8s Qs 3s]
+AAA: checks 
+DDD: checks 
+NNN: checks 
+KKK: checks 
+FFF: checks 
+BBB: checks 
+MMM: checks 
+LLL: checks 
+*** TURN *** [8s Qs 3s] [9s]
+*** TURN *** [8s Qs 3s 9s] [5s]
+AAA: checks 
+DDD: bets $8.00 
+NNN: folds 
+KKK: folds 
+FFF: folds 
+BBB: folds 
+MMM: folds 
+LLL: folds 
+AAA: folds 
+Uncalled bet ($8.00) returned to DDD
+DDD collected $8.00 from pot
+DDD: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.00 | Rake $0.00 
+Board [8s Qs 3s 9s 5s]
+Seat 1: LLL (button) folded on the Turn
+Seat 2: AAA folded on the Turn
+Seat 3: DDD collected ($8.00)
+Seat 4: NNN folded on the Turn
+Seat 5: KKK folded on the Turn
+Seat 6: FFF folded on the Turn
+Seat 7: BBB folded on the Turn
+Seat 8: MMM folded on the Turn
+
+
+
+PokerStarsCollection Hand #3051238286844003752:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:34:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($101.11 in chips) 
+Seat 2: AAA ($79.75 in chips) 
+Seat 3: DDD ($102.50 in chips) 
+Seat 4: NNN ($157.57 in chips) 
+Seat 5: KKK ($254.87 in chips) 
+Seat 6: FFF ($42.75 in chips) 
+Seat 7: BBB ($96.82 in chips) 
+*** HOLE CARDS ***
+FFF: calls $1.00 
+BBB: calls $1.00 
+LLL: calls $1.00 
+AAA: calls $1.00 
+DDD: calls $1.00 
+NNN: calls $1.00 
+*** FLOP *** [Js 4s 4d]
+*** FLOP *** [6h 5h Jc]
+DDD: checks 
+NNN: checks 
+KKK: checks 
+FFF: bets $7.00 
+BBB: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+NNN: calls $7.00 
+KKK: calls $7.00 
+*** TURN *** [6h 5h Jc] [2c]
+*** TURN *** [6h 5h Jc 2c] [3d]
+NNN: checks 
+KKK: checks 
+FFF: checks 
+*** RIVER *** [6h 5h Jc 2c 3d] [5s]
+*** RIVER *** [6h 5h Jc 2c 3d 5s] [Ks]
+NNN: checks 
+KKK: bets $28.00 
+FFF: folds 
+NNN: folds 
+*** SHOW DOWN ***
+KKK collected $28.00 from pot
+KKK: doesn't show hand 
+DDD: shows [2d]
+DDD: shows [2s]
+*** SUMMARY ***
+Total pot $28.00 | Rake $0.00 
+Board [6h 5h Jc 2c 3d 5s Ks]
+Seat 1: LLL folded on the Flop
+Seat 2: AAA (button) folded on the Flop
+Seat 3: DDD showed [2s] and lost
+Seat 4: NNN folded on the River
+Seat 5: KKK collected ($28.00)
+Seat 6: FFF folded on the River
+Seat 7: BBB folded on the Flop
+
+
+
+PokerStarsCollection Hand #4242313863734565562:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:35:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($100.11 in chips) 
+Seat 2: AAA ($78.75 in chips) 
+Seat 3: DDD ($101.50 in chips) 
+Seat 4: NNN ($149.57 in chips) 
+Seat 5: KKK ($274.87 in chips) 
+Seat 6: FFF ($34.75 in chips) 
+Seat 7: BBB ($95.82 in chips) 
+*** HOLE CARDS ***
+BBB: calls $1.00 
+LLL: calls $1.00 
+AAA: calls $1.00 
+DDD: calls $1.00 
+NNN: calls $1.00 
+KKK: calls $1.00 
+*** FLOP *** [Tc 9d 6s]
+*** FLOP *** [8c Jd 3c]
+NNN: checks 
+KKK: checks 
+FFF: checks 
+BBB: checks 
+LLL: checks 
+AAA: bets $3.50 
+DDD: folds 
+NNN: folds 
+KKK: folds 
+FFF: calls $3.50 
+BBB: calls $3.50 
+LLL: calls $3.50 
+*** TURN *** [8c Jd 3c] [4s]
+*** TURN *** [8c Jd 3c 4s] [7h]
+FFF: checks 
+BBB: checks 
+LLL: checks 
+AAA: bets $10.00 
+FFF: folds 
+BBB: calls $10.00 
+LLL: calls $10.00 
+*** RIVER *** [8c Jd 3c 4s 7h] [Jc]
+*** RIVER *** [8c Jd 3c 4s 7h Jc] [Kc]
+BBB: checks 
+LLL: checks 
+AAA: checks 
+*** SHOW DOWN ***
+BBB: shows [Th Qh 5s As]
+LLL: shows [6d 9s Kh Jh]
+AAA: shows [7d Qs Ac 8d]
+AAA collected $25.50 from pot
+LLL collected $25.50 from pot
+*** SUMMARY ***
+Total pot $25.50 | Rake $-25.50 
+Board [8c Jd 3c 4s 7h Jc Kc]
+Seat 1: LLL showed [6d 9s Kh Jh] and won ($25.50)
+Seat 2: AAA showed [7d Qs Ac 8d] and won ($25.50)
+Seat 3: DDD (button) folded on the Flop
+Seat 4: NNN folded on the Flop
+Seat 5: KKK folded on the Flop
+Seat 6: FFF folded on the Turn
+Seat 7: BBB showed [Th Qh 5s As] and lost
+
+
+
+PokerStarsCollection Hand #3162097116533874549:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:36:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($111.11 in chips) 
+Seat 2: AAA ($89.75 in chips) 
+Seat 3: DDD ($100.50 in chips) 
+Seat 4: NNN ($148.57 in chips) 
+Seat 5: KKK ($273.87 in chips) 
+Seat 6: FFF ($30.25 in chips) 
+Seat 7: BBB ($81.32 in chips) 
+*** HOLE CARDS ***
+LLL: calls $1.00 
+AAA: calls $1.00 
+DDD: calls $1.00 
+NNN: calls $1.00 
+KKK: calls $1.00 
+FFF: calls $1.00 
+*** FLOP *** [6c 6h 5d]
+*** FLOP *** [Th 9c 4s]
+KKK: checks 
+FFF: checks 
+BBB: checks 
+LLL: checks 
+AAA: checks 
+DDD: checks 
+NNN: checks 
+*** TURN *** [Th 9c 4s] [3s]
+*** TURN *** [Th 9c 4s 3s] [Kc]
+KKK: checks 
+FFF: checks 
+BBB: checks 
+LLL: bets $7.00 
+AAA: folds 
+DDD: calls $7.00 
+NNN: calls $7.00 
+KKK: folds 
+FFF: folds 
+BBB: folds 
+*** RIVER *** [Th 9c 4s 3s Kc] [9s]
+*** RIVER *** [Th 9c 4s 3s Kc 9s] [Kd]
+LLL: bets $28.00 
+DDD: calls $28.00 
+NNN: folds 
+*** SHOW DOWN ***
+LLL: shows [Ah 9d 6d 3c]
+DDD: shows [3h 2s Jc Qd]
+LLL collected $42.00 from pot
+DDD collected $42.00 from pot
+*** SUMMARY ***
+Total pot $42.00 | Rake $-42.00 
+Board [Th 9c 4s 3s Kc 9s Kd]
+Seat 1: LLL showed [Ah 9d 6d 3c] and won ($42.00)
+Seat 2: AAA folded on the Turn
+Seat 3: DDD showed [3h 2s Jc Qd] and won ($42.00)
+Seat 4: NNN (button) folded on the River
+Seat 5: KKK folded on the Turn
+Seat 6: FFF folded on the Turn
+Seat 7: BBB folded on the Turn
+
+
+
+PokerStarsCollection Hand #7359715789536711794:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:37:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($117.11 in chips) 
+Seat 2: AAA ($88.75 in chips) 
+Seat 3: DDD ($106.50 in chips) 
+Seat 4: NNN ($140.57 in chips) 
+Seat 5: KKK ($272.87 in chips) 
+Seat 6: FFF ($29.25 in chips) 
+Seat 7: BBB ($80.32 in chips) 
+Seat 8: CCC ($20.00 in chips) 
+*** HOLE CARDS ***
+LLL: calls $1.00 
+AAA: calls $1.00 
+DDD: calls $1.00 
+NNN: calls $1.00 
+KKK: calls $1.00 
+FFF: calls $1.00 
+BBB: calls $1.00 
+*** FLOP *** [9c 7h 8c]
+*** FLOP *** [5h Ad Ac]
+FFF: checks 
+BBB: checks 
+CCC: checks 
+LLL: checks 
+AAA: checks 
+DDD: checks 
+NNN: bets $4.00 
+KKK: calls $4.00 
+FFF: calls $4.00 
+BBB: folds 
+CCC: folds 
+LLL: calls $4.00 
+AAA: folds 
+DDD: folds 
+*** TURN *** [5h Ad Ac] [9d]
+*** TURN *** [5h Ad Ac 9d] [6c]
+FFF: checks 
+LLL: checks 
+NNN: bets $24.00 
+KKK: calls $24.00 
+FFF: calls $24.00 
+LLL: folds 
+*** RIVER *** [5h Ad Ac 9d 6c] [Tc]
+*** RIVER *** [5h Ad Ac 9d 6c Tc] [As]
+FFF: bets $0.25 
+NNN: raises $48.25 to $48.50 
+KKK: raises $193.25 to $241.75 
+NNN: calls $111.57 
+*** SHOW DOWN ***
+KKK: shows [6s 7c Ah 8d]
+FFF: shows [Js Td 9s 4d]
+FFF collected $48.38 from pot
+KKK collected $48.37 from pot
+NNN: shows [Ks 8h 8s Ts]
+NNN collected $111.32 from pot
+KKK collected $111.32 from pot
+*** SUMMARY ***
+Total pot $111.32 | Rake $-208.07 
+Board [5h Ad Ac 9d 6c Tc As]
+Seat 1: LLL folded on the Turn
+Seat 2: AAA folded on the Flop
+Seat 3: DDD folded on the Flop
+Seat 4: NNN showed [Ks 8h 8s Ts] and won ($111.32)
+Seat 5: KKK (button) showed [6s 7c Ah 8d] and won ($111.32)
+Seat 6: FFF showed [Js Td 9s 4d] and won ($48.38)
+Seat 7: BBB folded on the Flop
+Seat 8: CCC folded on the Flop
+
+
+
+PokerStarsCollection Hand #22907390955528950:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:38:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($112.11 in chips) 
+Seat 2: AAA ($87.75 in chips) 
+Seat 3: DDD ($105.50 in chips) 
+Seat 4: NNN ($111.32 in chips) 
+Seat 5: KKK ($291.99 in chips) 
+Seat 6: FFF ($48.38 in chips) 
+Seat 7: BBB ($79.32 in chips) 
+Seat 8: CCC ($49.00 in chips) 
+*** HOLE CARDS ***
+AAA: calls $1.00 
+DDD: calls $1.00 
+NNN: calls $1.00 
+KKK: calls $1.00 
+FFF: calls $1.00 
+BBB: calls $1.00 
+CCC: calls $1.00 
+*** FLOP *** [Qh Jc 4c]
+*** FLOP *** [2h 4s 5c]
+BBB: checks 
+CCC: checks 
+LLL: checks 
+AAA: checks 
+DDD: checks 
+NNN: checks 
+KKK: checks 
+FFF: checks 
+*** TURN *** [2h 4s 5c] [Kd]
+*** TURN *** [2h 4s 5c Kd] [3d]
+BBB: bets $4.00 
+CCC: folds 
+LLL: raises $16.00 to $20.00 
+AAA: folds 
+DDD: folds 
+NNN: folds 
+KKK: folds 
+FFF: raises $27.38 to $47.38 
+BBB: folds 
+LLL: calls $47.38 
+LLL: shows [Td 3h As 7h]
+FFF: shows [7c Th 6d 6c]
+*** RIVER *** [2h 4s 5c Kd 3d] [Ad]
+*** RIVER *** [2h 4s 5c Kd 3d Ad] [3c]
+*** SHOW DOWN ***
+LLL collected $53.38 from pot
+FFF collected $53.38 from pot
+BBB: shows [Qs]
+BBB: shows [Qd]
+*** SUMMARY ***
+Total pot $53.38 | Rake $-53.38 
+Board [2h 4s 5c Kd 3d Ad 3c]
+Seat 1: LLL showed [Td 3h As 7h] and won ($53.38)
+Seat 2: AAA folded on the Turn
+Seat 3: DDD folded on the Turn
+Seat 4: NNN folded on the Turn
+Seat 5: KKK folded on the Turn
+Seat 6: FFF (button) showed [7c Th 6d 6c] and won ($53.38)
+Seat 7: BBB showed [Qd] and lost
+Seat 8: CCC folded on the Turn
+
+
+
+PokerStarsCollection Hand #8938172437903775523:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:39:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($117.11 in chips) 
+Seat 2: AAA ($86.75 in chips) 
+Seat 3: DDD ($104.50 in chips) 
+Seat 4: KKK ($290.99 in chips) 
+Seat 5: FFF ($53.38 in chips) 
+Seat 6: BBB ($74.32 in chips) 
+Seat 7: CCC ($48.00 in chips) 
+*** HOLE CARDS ***
+DDD: calls $1.00 
+KKK: calls $1.00 
+FFF: calls $1.00 
+BBB: calls $1.00 
+CCC: calls $1.00 
+LLL: calls $1.00 
+*** FLOP *** [7d 9d 6h]
+*** FLOP *** [Tc Qc Qh]
+CCC: bets $5.25 
+LLL: folds 
+AAA: folds 
+DDD: calls $5.25 
+KKK: folds 
+FFF: raises $22.75 to $28.00 
+BBB: folds 
+CCC: folds 
+DDD: raises $68.25 to $96.25 
+FFF: calls $52.38 
+DDD: shows [Qd 4d Kc 9c]
+FFF: shows [Th 8s Td 3c]
+*** TURN *** [Tc Qc Qh] [Js]
+*** TURN *** [Tc Qc Qh Js] [4h]
+*** RIVER *** [Tc Qc Qh Js 4h] [Kd]
+*** RIVER *** [Tc Qc Qh Js 4h Kd] [Ad]
+*** SHOW DOWN ***
+DDD collected $58.51 from pot
+DDD collected $58.50 from pot
+CCC: shows [8h 5s Qs 7h]
+*** SUMMARY ***
+Total pot $58.50 | Rake $-58.51 
+Board [Tc Qc Qh Js 4h Kd Ad]
+Seat 1: LLL folded on the Flop
+Seat 2: AAA folded on the Flop
+Seat 3: DDD showed [Qd 4d Kc 9c] and won ($58.50)
+Seat 4: KKK folded on the Flop
+Seat 5: FFF showed [Th 8s Td 3c] and lost
+Seat 6: BBB (button) folded on the Flop
+Seat 7: CCC showed [8h 5s Qs 7h] and lost
+
+
+
+PokerStarsCollection Hand #3701038494900274186:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:40:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($116.11 in chips) 
+Seat 2: AAA ($85.75 in chips) 
+Seat 3: DDD ($168.13 in chips) 
+Seat 4: KKK ($289.99 in chips) 
+Seat 5: BBB ($73.32 in chips) 
+Seat 6: CCC ($41.75 in chips) 
+*** HOLE CARDS ***
+KKK: calls $1.00 
+BBB: calls $1.00 
+CCC: calls $1.00 
+LLL: calls $1.00 
+AAA: calls $1.00 
+*** FLOP *** [Ks 8s 8h]
+*** FLOP *** [Kd 5h Ah]
+LLL: checks 
+AAA: checks 
+DDD: checks 
+KKK: checks 
+BBB: checks 
+CCC: checks 
+*** TURN *** [Kd 5h Ah] [7h]
+*** TURN *** [Kd 5h Ah 7h] [7c]
+LLL: checks 
+AAA: bets $4.00 
+DDD: folds 
+KKK: folds 
+BBB: folds 
+CCC: folds 
+LLL: calls $4.00 
+*** RIVER *** [Kd 5h Ah 7h 7c] [Ts]
+*** RIVER *** [Kd 5h Ah 7h 7c Ts] [9d]
+LLL: checks 
+AAA: checks 
+*** SHOW DOWN ***
+LLL: shows [Qh Ad Th 5d]
+AAA: shows [4c As Jh 8c]
+AAA collected $7.00 from pot
+LLL collected $7.00 from pot
+*** SUMMARY ***
+Total pot $7.00 | Rake $-7.00 
+Board [Kd 5h Ah 7h 7c Ts 9d]
+Seat 1: LLL showed [Qh Ad Th 5d] and won ($7.00)
+Seat 2: AAA showed [4c As Jh 8c] and won ($7.00)
+Seat 3: DDD folded on the Turn
+Seat 4: KKK folded on the Turn
+Seat 5: BBB folded on the Turn
+Seat 6: CCC (button) folded on the Turn
+
+
+
+PokerStarsCollection Hand #3876259015707276673:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:41:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($118.11 in chips) 
+Seat 2: AAA ($87.75 in chips) 
+Seat 3: DDD ($167.13 in chips) 
+Seat 4: KKK ($288.99 in chips) 
+Seat 5: BBB ($72.32 in chips) 
+Seat 6: CCC ($40.75 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [8h 7c]
+KKK: raises $0.93 to $1.43 
+BBB: folds 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+KKK collected $1.25 from pot
+KKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.00 
+Seat 1: LLL (button) folded before Flop (didn't bet)
+Seat 2: AAA (small blind) folded before Flop (didn't bet)
+Seat 3: DDD (big blind) folded before Flop (didn't bet)
+Seat 4: KKK collected ($1.25)
+Seat 5: BBB folded before Flop (didn't bet)
+Seat 6: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #8543380745116435153:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:42:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($118.11 in chips) 
+Seat 2: AAA ($87.50 in chips) 
+Seat 3: DDD ($166.63 in chips) 
+Seat 4: KKK ($289.74 in chips) 
+Seat 5: BBB ($72.32 in chips) 
+Seat 6: CCC ($40.75 in chips) 
+DDD: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [2d Ks]
+BBB: folds 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+KKK collected $0.50 from pot
+KKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.00 
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA (button) folded before Flop (didn't bet)
+Seat 3: DDD (small blind) folded before Flop (didn't bet)
+Seat 4: KKK (big blind) collected ($0.50)
+Seat 5: BBB folded before Flop (didn't bet)
+Seat 6: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #5032678548013990910:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:43:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($118.11 in chips) 
+Seat 2: AAA ($87.50 in chips) 
+Seat 3: DDD ($166.38 in chips) 
+Seat 4: KKK ($289.99 in chips) 
+Seat 5: BBB ($72.32 in chips) 
+Seat 6: CCC ($40.75 in chips) 
+KKK: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [3c Ks]
+CCC: calls $0.50 
+LLL: folds 
+AAA: folds 
+DDD: calls $0.50 
+KKK: folds 
+BBB: checks 
+*** FLOP *** [6h Kd 8s]
+BBB: checks 
+CCC: bets $1.31 
+DDD: calls $1.31 
+BBB: calls $1.31 
+*** TURN *** [6h Kd 8s] [Ah]
+BBB: checks 
+CCC: bets $2.84 
+DDD: folds 
+BBB: folds 
+Uncalled bet ($2.84) returned to CCC
+CCC collected $5.68 from pot
+CCC: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.68 | Rake $0.00 
+Board [6h Kd 8s Ah]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) folded on the Turn
+Seat 4: KKK (small blind) folded before Flop (didn't bet)
+Seat 5: BBB (big blind) folded on the Turn
+Seat 6: CCC collected ($5.68)
+
+
+
+PokerStarsCollection Hand #8424671593386628157:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:44:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($118.11 in chips) 
+Seat 2: AAA ($87.50 in chips) 
+Seat 3: DDD ($164.57 in chips) 
+Seat 4: KKK ($289.74 in chips) 
+Seat 5: BBB ($70.51 in chips) 
+Seat 6: CCC ($44.62 in chips) 
+BBB: posts small blind $0.25 
+CCC: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [5h 7s]
+LLL: raises $1.25 to $1.75 
+AAA: folds 
+DDD: folds 
+KKK: folds 
+BBB: calls $1.75 
+CCC: calls $1.75 
+*** FLOP *** [5c 6c Kd]
+BBB: checks 
+CCC: bets $3.93 
+LLL: folds 
+BBB: folds 
+Uncalled bet ($3.93) returned to CCC
+*** SHOW DOWN ***
+CCC collected $5.25 from pot
+CCC: doesn't show hand 
+CCC: shows [Kh Ah]
+*** SUMMARY ***
+Total pot $5.25 | Rake $0.00 
+Board [5c 6c Kd]
+Seat 1: LLL folded on the Flop
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: KKK (button) folded before Flop (didn't bet)
+Seat 5: BBB (small blind) folded on the Flop
+Seat 6: CCC (big blind) showed [Kh Ah] and won ($5.25)
+
+
+
+PokerStarsCollection Hand #732586993603407058:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:45:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($116.36 in chips) 
+Seat 2: AAA ($87.50 in chips) 
+Seat 3: DDD ($164.57 in chips) 
+Seat 4: KKK ($289.74 in chips) 
+Seat 5: BBB ($68.76 in chips) 
+Seat 6: CCC ($48.12 in chips) 
+CCC: posts small blind $0.25 
+LLL: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [8h 3d]
+AAA: folds 
+DDD: folds 
+KKK: folds 
+BBB: raises $0.93 to $1.43 
+CCC: folds 
+LLL: calls $1.43 
+*** FLOP *** [6d 9s Td]
+LLL: checks 
+BBB: bets $1.55 
+LLL: calls $1.55 
+*** TURN *** [6d 9s Td] [5d]
+LLL: checks 
+BBB: checks 
+*** RIVER *** [6d 9s Td 5d] [Ah]
+LLL: folds 
+*** SHOW DOWN ***
+BBB collected $6.21 from pot
+BBB: doesn't show hand 
+LLL: shows [4c 7d]
+*** SUMMARY ***
+Total pot $6.21 | Rake $0.00 
+Board [6d 9s Td 5d Ah]
+Seat 1: LLL (big blind) showed [4c 7d] and lost
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: KKK folded before Flop (didn't bet)
+Seat 5: BBB (button) collected ($6.21)
+Seat 6: CCC (small blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #4163026215359466295:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:46:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($113.38 in chips) 
+Seat 2: AAA ($87.50 in chips) 
+Seat 3: DDD ($164.57 in chips) 
+Seat 4: KKK ($289.74 in chips) 
+Seat 5: BBB ($71.99 in chips) 
+Seat 6: CCC ($47.87 in chips) 
+LLL: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [9s Tc]
+DDD: folds 
+KKK: raises $0.93 to $1.43 
+BBB: calls $1.43 
+CCC: folds 
+LLL: folds 
+AAA: calls $1.43 
+*** FLOP *** [6s 3h Jc]
+AAA: checks 
+KKK: checks 
+BBB: checks 
+*** TURN *** [6s 3h Jc] [5h]
+AAA: checks 
+KKK: checks 
+BBB: checks 
+*** RIVER *** [6s 3h Jc 5h] [Qs]
+AAA: checks 
+KKK: checks 
+BBB: checks 
+*** SHOW DOWN ***
+AAA: shows [9s Tc]
+KKK: shows [4d 4s]
+KKK collected $4.54 from pot
+*** SUMMARY ***
+Total pot $4.54 | Rake $0.00 
+Board [6s 3h Jc 5h Qs]
+Seat 1: LLL (small blind) folded before Flop (didn't bet)
+Seat 2: AAA (big blind) showed [9s Tc] and lost
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: KKK showed [4d 4s] and won ($4.54)
+Seat 5: BBB
+Seat 6: CCC (button) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #542304135225868380:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:47:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($113.13 in chips) 
+Seat 2: AAA ($86.07 in chips) 
+Seat 3: DDD ($164.57 in chips) 
+Seat 4: KKK ($292.85 in chips) 
+Seat 5: BBB ($70.56 in chips) 
+Seat 6: CCC ($47.87 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Kh 4c]
+KKK: raises $0.93 to $1.43 
+BBB: folds 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: raises $3.57 to $5.00 
+KKK: calls $5.00 
+*** FLOP *** [Qd Kd 8s]
+DDD: bets $3.50 
+KKK: folds 
+Uncalled bet ($3.50) returned to DDD
+DDD collected $10.25 from pot
+DDD: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.25 | Rake $0.00 
+Board [Qd Kd 8s]
+Seat 1: LLL (button) folded before Flop (didn't bet)
+Seat 2: AAA (small blind) folded before Flop (didn't bet)
+Seat 3: DDD (big blind) collected ($10.25)
+Seat 4: KKK folded on the Flop
+Seat 5: BBB folded before Flop (didn't bet)
+Seat 6: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #4826212676911746839:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:48:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($113.13 in chips) 
+Seat 2: AAA ($85.82 in chips) 
+Seat 3: DDD ($169.82 in chips) 
+Seat 4: KKK ($287.85 in chips) 
+Seat 5: BBB ($70.56 in chips) 
+Seat 6: CCC ($47.87 in chips) 
+DDD: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [3h 8h]
+BBB: raises $0.93 to $1.43 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+KKK: folds 
+BBB collected $1.25 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.00 
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA (button) folded before Flop (didn't bet)
+Seat 3: DDD (small blind) folded before Flop (didn't bet)
+Seat 4: KKK (big blind) folded before Flop (didn't bet)
+Seat 5: BBB collected ($1.25)
+Seat 6: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #3654293847013214185:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:49:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($113.13 in chips) 
+Seat 2: AAA ($85.82 in chips) 
+Seat 3: DDD ($169.57 in chips) 
+Seat 4: KKK ($287.35 in chips) 
+Seat 5: BBB ($71.31 in chips) 
+Seat 6: CCC ($47.87 in chips) 
+KKK: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [9d Ks]
+CCC: folds 
+LLL: calls $0.50 
+AAA: folds 
+DDD: folds 
+KKK: folds 
+BBB: checks 
+*** FLOP *** [Jc 2c 4h]
+BBB: checks 
+LLL: checks 
+*** TURN *** [Jc 2c 4h] [2h]
+BBB: bets $1.25 
+LLL: folds 
+Uncalled bet ($1.25) returned to BBB
+BBB collected $1.25 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.00 
+Board [Jc 2c 4h 2h]
+Seat 1: LLL folded on the Turn
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) folded before Flop (didn't bet)
+Seat 4: KKK (small blind) folded before Flop (didn't bet)
+Seat 5: BBB (big blind) collected ($1.25)
+Seat 6: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2188709377637535000:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:50:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($112.63 in chips) 
+Seat 2: AAA ($85.82 in chips) 
+Seat 3: DDD ($169.57 in chips) 
+Seat 4: KKK ($287.10 in chips) 
+Seat 5: BBB ($72.06 in chips) 
+Seat 6: CCC ($47.87 in chips) 
+BBB: posts small blind $0.25 
+CCC: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [3d Ah]
+LLL: calls $0.50 
+AAA: folds 
+DDD: folds 
+KKK: folds 
+BBB: calls $0.50 
+CCC: checks 
+*** FLOP *** [9s 8c 9h]
+BBB: checks 
+CCC: bets $1.50 
+LLL: folds 
+BBB: folds 
+Uncalled bet ($1.50) returned to CCC
+CCC collected $1.50 from pot
+CCC: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00 
+Board [9s 8c 9h]
+Seat 1: LLL folded on the Flop
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: KKK (button) folded before Flop (didn't bet)
+Seat 5: BBB (small blind) folded on the Flop
+Seat 6: CCC (big blind) collected ($1.50)
+
+
+
+PokerStarsCollection Hand #4622972132162103213:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:51:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($112.13 in chips) 
+Seat 2: AAA ($85.82 in chips) 
+Seat 3: DDD ($169.57 in chips) 
+Seat 4: KKK ($287.10 in chips) 
+Seat 5: BBB ($71.56 in chips) 
+Seat 6: CCC ($48.87 in chips) 
+CCC: posts small blind $0.25 
+LLL: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [9h 3c]
+AAA: folds 
+DDD: folds 
+KKK: folds 
+BBB: calls $0.50 
+CCC: calls $0.50 
+LLL: checks 
+*** FLOP *** [Kh Ad 4c]
+CCC: checks 
+LLL: checks 
+BBB: checks 
+*** TURN *** [Kh Ad 4c] [2s]
+CCC: checks 
+LLL: checks 
+BBB: checks 
+*** RIVER *** [Kh Ad 4c 2s] [7d]
+CCC: checks 
+LLL: checks 
+BBB: checks 
+*** SHOW DOWN ***
+CCC: shows [2d Jd]
+LLL: shows [7s 5h]
+LLL collected $1.50 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00 
+Board [Kh Ad 4c 2s 7d]
+Seat 1: LLL (big blind) showed [7s 5h] and won ($1.50)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: KKK folded before Flop (didn't bet)
+Seat 5: BBB (button)
+Seat 6: CCC (small blind) showed [2d Jd] and lost
+
+
+
+PokerStarsCollection Hand #2017512611788662975:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:52:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($113.13 in chips) 
+Seat 2: AAA ($85.82 in chips) 
+Seat 3: DDD ($169.57 in chips) 
+Seat 4: KKK ($287.10 in chips) 
+Seat 5: BBB ($71.06 in chips) 
+Seat 6: CCC ($48.37 in chips) 
+LLL: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Th 7c]
+DDD: folds 
+KKK: folds 
+BBB: raises $0.93 to $1.43 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+BBB collected $1.25 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.00 
+Seat 1: LLL (small blind) folded before Flop (didn't bet)
+Seat 2: AAA (big blind) folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: KKK folded before Flop (didn't bet)
+Seat 5: BBB collected ($1.25)
+Seat 6: CCC (button) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #1898780909942124532:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:53:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($112.88 in chips) 
+Seat 2: AAA ($85.32 in chips) 
+Seat 3: DDD ($169.57 in chips) 
+Seat 4: III ($75.00 in chips) 
+Seat 5: KKK ($287.10 in chips) 
+Seat 6: BBB ($71.81 in chips) 
+Seat 7: CCC ($48.37 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [4d Js]
+III: folds 
+KKK: folds 
+BBB: folds 
+CCC: calls $0.50 
+LLL: calls $0.50 
+AAA: folds 
+DDD: checks 
+*** FLOP *** [Ac Ad Ks]
+DDD: checks 
+CCC: checks 
+LLL: checks 
+*** TURN *** [Ac Ad Ks] [As]
+DDD: checks 
+CCC: bets $1.75 
+LLL: folds 
+DDD: folds 
+Uncalled bet ($1.75) returned to CCC
+*** SHOW DOWN ***
+CCC collected $1.75 from pot
+CCC: doesn't show hand 
+CCC: shows [9h Ah]
+DDD: shows [3d]
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.00 
+Board [Ac Ad Ks As]
+Seat 1: LLL (button) folded on the Turn
+Seat 2: AAA (small blind) folded before Flop (didn't bet)
+Seat 3: DDD (big blind) showed [3d] and lost
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: CCC showed [9h Ah] and won ($1.75)
+
+
+
+PokerStarsCollection Hand #4935263308409600643:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:54:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($112.38 in chips) 
+Seat 2: AAA ($85.07 in chips) 
+Seat 3: DDD ($169.07 in chips) 
+Seat 4: III ($75.00 in chips) 
+Seat 5: KKK ($287.10 in chips) 
+Seat 6: BBB ($71.81 in chips) 
+Seat 7: CCC ($49.62 in chips) 
+DDD: posts small blind $0.25 
+III: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Ad 7s]
+KKK: folds 
+BBB: raises $0.93 to $1.43 
+CCC: calls $1.43 
+LLL: calls $1.43 
+AAA: folds 
+DDD: folds 
+III: calls $1.43 
+*** FLOP *** [2h 4s Qs]
+III: bets $2.98 
+BBB: calls $2.98 
+CCC: folds 
+LLL: folds 
+*** TURN *** [2h 4s Qs] [9h]
+III: checks 
+BBB: bets $15.00 
+III: calls $15.00 
+*** RIVER *** [2h 4s Qs 9h] [5h]
+III: checks 
+BBB: bets $52.40 
+III: folds 
+BBB collected $41.93 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $41.93 | Rake $0.00 
+Board [2h 4s Qs 9h 5h]
+Seat 1: LLL folded on the Flop
+Seat 2: AAA (button) folded before Flop (didn't bet)
+Seat 3: DDD (small blind) folded before Flop (didn't bet)
+Seat 4: III (big blind) folded on the River
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB collected ($41.93)
+Seat 7: CCC folded on the Flop
+
+
+
+PokerStarsCollection Hand #4976301187496441500:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:55:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($110.95 in chips) 
+Seat 2: AAA ($85.07 in chips) 
+Seat 3: DDD ($168.82 in chips) 
+Seat 4: III ($55.59 in chips) 
+Seat 5: KKK ($287.10 in chips) 
+Seat 6: BBB ($94.33 in chips) 
+Seat 7: CCC ($48.19 in chips) 
+III: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [4s 3h]
+BBB: folds 
+CCC: calls $0.50 
+LLL: folds 
+AAA: folds 
+DDD: calls $0.50 
+III: calls $0.50 
+KKK: checks 
+*** FLOP *** [4h 3c 8d]
+III: checks 
+KKK: checks 
+CCC: checks 
+DDD: checks 
+*** TURN *** [4h 3c 8d] [6d]
+III: checks 
+KKK: checks 
+CCC: checks 
+DDD: bets $2.00 
+III: folds 
+KKK: folds 
+CCC: folds 
+Uncalled bet ($2.00) returned to DDD
+DDD collected $2.00 from pot
+DDD: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.00 | Rake $0.00 
+Board [4h 3c 8d 6d]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) collected ($2.00)
+Seat 4: III (small blind) folded on the Turn
+Seat 5: KKK (big blind) folded on the Turn
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: CCC folded on the Turn
+
+
+
+PokerStarsCollection Hand #888904330817007781:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:56:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($110.95 in chips) 
+Seat 2: AAA ($85.07 in chips) 
+Seat 3: DDD ($170.32 in chips) 
+Seat 4: III ($55.09 in chips) 
+Seat 5: KKK ($286.60 in chips) 
+Seat 6: BBB ($94.33 in chips) 
+Seat 7: CCC ($47.69 in chips) 
+KKK: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [2h 5d]
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+III: raises $1.25 to $1.75 
+KKK: folds 
+BBB: folds 
+III collected $1.25 from pot
+III: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.00 
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III (button) collected ($1.25)
+Seat 5: KKK (small blind) folded before Flop (didn't bet)
+Seat 6: BBB (big blind) folded before Flop (didn't bet)
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #716138354276021814:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:57:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($110.95 in chips) 
+Seat 2: AAA ($85.07 in chips) 
+Seat 3: DDD ($170.32 in chips) 
+Seat 4: III ($55.84 in chips) 
+Seat 5: KKK ($286.35 in chips) 
+Seat 6: BBB ($93.83 in chips) 
+Seat 7: CCC ($47.69 in chips) 
+BBB: posts small blind $0.25 
+CCC: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [9h 4d]
+LLL: raises $2.00 to $2.50 
+AAA: folds 
+DDD: folds 
+III: calls $2.50 
+KKK: calls $2.50 
+BBB: raises $87.50 to $90.00 
+CCC: folds 
+LLL: folds 
+III: folds 
+KKK: folds 
+*** SHOW DOWN ***
+BBB collected $10.50 from pot
+BBB: doesn't show hand 
+BBB: shows [Qs Ac]
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.00 
+Seat 1: LLL folded before Flop
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK (button) folded before Flop (didn't bet)
+Seat 6: BBB (small blind) showed [Qs Ac] and won ($10.50)
+Seat 7: CCC (big blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #6222902943453602917:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:58:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($108.45 in chips) 
+Seat 2: AAA ($85.07 in chips) 
+Seat 3: DDD ($170.32 in chips) 
+Seat 4: III ($53.34 in chips) 
+Seat 5: KKK ($283.85 in chips) 
+Seat 6: BBB ($101.83 in chips) 
+Seat 7: CCC ($47.19 in chips) 
+CCC: posts small blind $0.25 
+LLL: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [3s 5h]
+AAA: folds 
+DDD: folds 
+III: folds 
+KKK: folds 
+BBB: folds 
+CCC: folds 
+LLL collected $0.50 from pot
+LLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.00 
+Seat 1: LLL (big blind) collected ($0.50)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB (button) folded before Flop (didn't bet)
+Seat 7: CCC (small blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #7167392317986701351:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 01:59:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #7 is the button
+Seat 1: LLL ($108.70 in chips) 
+Seat 2: AAA ($85.07 in chips) 
+Seat 3: DDD ($170.32 in chips) 
+Seat 4: III ($53.34 in chips) 
+Seat 5: KKK ($283.85 in chips) 
+Seat 6: BBB ($101.83 in chips) 
+Seat 7: CCC ($46.94 in chips) 
+LLL: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [2c Ad]
+DDD: calls $0.50 
+III: folds 
+KKK: raises $2.25 to $2.75 
+BBB: calls $2.75 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: raises $22.25 to $25.00 
+KKK: folds 
+BBB: folds 
+DDD collected $9.00 from pot
+DDD: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.00 | Rake $0.00 
+Seat 1: LLL (small blind) folded before Flop (didn't bet)
+Seat 2: AAA (big blind) folded before Flop (didn't bet)
+Seat 3: DDD collected ($9.00)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: CCC (button) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #6904267227368198927:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:00:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($108.45 in chips) 
+Seat 2: AAA ($84.57 in chips) 
+Seat 3: DDD ($176.57 in chips) 
+Seat 4: III ($53.34 in chips) 
+Seat 5: KKK ($281.10 in chips) 
+Seat 6: BBB ($99.08 in chips) 
+Seat 7: CCC ($46.94 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [9h Jc]
+III: raises $1.25 to $1.75 
+KKK: folds 
+BBB: calls $1.75 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: calls $1.75 
+*** FLOP *** [7c 5c Qc]
+DDD: checks 
+III: bets $2.75 
+BBB: raises $8.25 to $11.00 
+DDD: folds 
+III: calls $11.00 
+*** TURN *** [7c 5c Qc] [8s]
+III: bets $27.50 
+BBB: raises $58.83 to $86.33 
+III: calls $40.59 
+III: shows [Qd Qs]
+BBB: shows [5d 5s]
+*** RIVER *** [7c 5c Qc 8s] [3s]
+*** RIVER *** [7c 5c Qc 8s 3s] [Jh]
+*** SHOW DOWN ***
+III collected $54.34 from pot
+III collected $54.34 from pot
+DDD: shows [7d]
+*** SUMMARY ***
+Total pot $54.34 | Rake $-54.34 
+Board [7c 5c Qc 8s 3s Jh]
+Seat 1: LLL (button) folded before Flop (didn't bet)
+Seat 2: AAA (small blind) folded before Flop (didn't bet)
+Seat 3: DDD (big blind) showed [7d] and lost
+Seat 4: III showed [Qd Qs] and won ($54.34)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB showed [5d 5s] and lost
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #368978381294369559:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:01:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($108.45 in chips) 
+Seat 2: AAA ($84.32 in chips) 
+Seat 3: DDD ($174.82 in chips) 
+Seat 4: III ($108.68 in chips) 
+Seat 5: KKK ($281.10 in chips) 
+Seat 6: BBB ($45.74 in chips) 
+Seat 7: CCC ($46.94 in chips) 
+DDD: posts small blind $0.25 
+III: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [6d 7s]
+KKK: raises $0.93 to $1.43 
+BBB: folds 
+CCC: folds 
+LLL: calls $1.43 
+AAA: folds 
+DDD: folds 
+III: folds 
+*** FLOP *** [9h 5d 5s]
+KKK: bets $1.30 
+LLL: calls $1.30 
+*** TURN *** [9h 5d 5s] [2c]
+KKK: checks 
+LLL: checks 
+*** RIVER *** [9h 5d 5s 2c] [4d]
+KKK: calls $0.50 
+LLL: calls $0.50 
+*** SHOW DOWN ***
+KKK: shows [3s 3h]
+LLL: shows [9s 7h]
+LLL collected $7.21 from pot
+*** SUMMARY ***
+Total pot $7.21 | Rake $0.00 
+Board [9h 5d 5s 2c 4d]
+Seat 1: LLL showed [9s 7h] and won ($7.21)
+Seat 2: AAA (button) folded before Flop (didn't bet)
+Seat 3: DDD (small blind) folded before Flop (didn't bet)
+Seat 4: III (big blind) folded before Flop (didn't bet)
+Seat 5: KKK showed [3s 3h] and lost
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #8543007433382555377:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:02:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($112.43 in chips) 
+Seat 2: AAA ($84.32 in chips) 
+Seat 3: DDD ($174.57 in chips) 
+Seat 4: III ($108.18 in chips) 
+Seat 5: KKK ($277.87 in chips) 
+Seat 6: BBB ($45.74 in chips) 
+Seat 7: CCC ($46.94 in chips) 
+III: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [2d 6d]
+BBB: calls $0.50 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+III: calls $0.50 
+KKK: checks 
+*** FLOP *** [6s Kd 5h]
+III: checks 
+KKK: checks 
+BBB: checks 
+*** TURN *** [6s Kd 5h] [6c]
+III: checks 
+KKK: checks 
+BBB: bets $1.50 
+III: folds 
+KKK: folds 
+Uncalled bet ($1.50) returned to BBB
+BBB collected $1.50 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.00 
+Board [6s Kd 5h 6c]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) folded before Flop (didn't bet)
+Seat 4: III (small blind) folded on the Turn
+Seat 5: KKK (big blind) folded on the Turn
+Seat 6: BBB collected ($1.50)
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #6428009460817954001:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:03:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($112.43 in chips) 
+Seat 2: AAA ($84.32 in chips) 
+Seat 3: DDD ($174.57 in chips) 
+Seat 4: III ($107.68 in chips) 
+Seat 5: KKK ($277.37 in chips) 
+Seat 6: BBB ($46.74 in chips) 
+Seat 7: CCC ($46.94 in chips) 
+KKK: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Kc Tc]
+CCC: folds 
+LLL: raises $1.50 to $2.00 
+AAA: raises $4.00 to $6.00 
+DDD: folds 
+III: folds 
+KKK: folds 
+BBB: folds 
+LLL: calls $6.00 
+*** FLOP *** [2d 8s 3d]
+LLL: checks 
+AAA: checks 
+*** TURN *** [2d 8s 3d] [8h]
+LLL: checks 
+AAA: bets $8.00 
+LLL: calls $8.00 
+*** RIVER *** [2d 8s 3d 8h] [8c]
+LLL: checks 
+AAA: checks 
+*** SHOW DOWN ***
+LLL: shows [9c 9d]
+LLL collected $28.75 from pot
+*** SUMMARY ***
+Total pot $28.75 | Rake $0.00 
+Board [2d 8s 3d 8h 8c]
+Seat 1: LLL showed [9c 9d] and won ($28.75)
+Seat 2: AAA
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III (button) folded before Flop (didn't bet)
+Seat 5: KKK (small blind) folded before Flop (didn't bet)
+Seat 6: BBB (big blind) folded before Flop (didn't bet)
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #7291682785978273438:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:04:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($127.18 in chips) 
+Seat 2: AAA ($70.32 in chips) 
+Seat 3: DDD ($174.57 in chips) 
+Seat 4: III ($107.68 in chips) 
+Seat 5: KKK ($277.12 in chips) 
+Seat 6: BBB ($46.24 in chips) 
+Seat 7: CCC ($46.94 in chips) 
+BBB: posts small blind $0.25 
+CCC: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Kc Ks]
+LLL: folds 
+AAA: raises $1.25 to $1.75 
+DDD: calls $1.75 
+III: folds 
+KKK: folds 
+BBB: calls $1.75 
+CCC: folds 
+*** FLOP *** [4s 5c 3c]
+BBB: checks 
+AAA: checks 
+DDD: checks 
+*** TURN *** [4s 5c 3c] [4c]
+BBB: checks 
+AAA: bets $4.00 
+DDD: calls $4.00 
+BBB: calls $4.00 
+*** RIVER *** [4s 5c 3c 4c] [Jd]
+BBB: checks 
+AAA: bets $22.50 
+DDD: folds 
+BBB: folds 
+AAA collected $17.75 from pot
+AAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $17.75 | Rake $0.00 
+Board [4s 5c 3c 4c Jd]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA collected ($17.75)
+Seat 3: DDD folded on the River
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK (button) folded before Flop (didn't bet)
+Seat 6: BBB (small blind) folded on the River
+Seat 7: CCC (big blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #8030732079689855390:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:05:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($127.18 in chips) 
+Seat 2: AAA ($82.32 in chips) 
+Seat 3: DDD ($168.82 in chips) 
+Seat 4: III ($107.68 in chips) 
+Seat 5: KKK ($277.12 in chips) 
+Seat 6: BBB ($40.49 in chips) 
+Seat 7: CCC ($46.44 in chips) 
+CCC: posts small blind $0.25 
+LLL: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Kh 9d]
+AAA: folds 
+DDD: folds 
+III: folds 
+KKK: folds 
+BBB: calls $0.50 
+CCC: calls $0.50 
+LLL: checks 
+*** FLOP *** [8s 4s 9s]
+CCC: bets $0.75 
+LLL: folds 
+BBB: calls $0.75 
+*** TURN *** [8s 4s 9s] [3d]
+CCC: bets $1.50 
+BBB: calls $1.50 
+*** RIVER *** [8s 4s 9s 3d] [Js]
+CCC: bets $0.50 
+BBB: raises $3.50 to $4.00 
+CCC: folds 
+BBB collected $7.00 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.00 | Rake $0.00 
+Board [8s 4s 9s 3d Js]
+Seat 1: LLL (big blind) folded on the Flop
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB (button) collected ($7.00)
+Seat 7: CCC (small blind) folded on the River
+
+
+
+PokerStarsCollection Hand #1259696230835558358:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:06:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #7 is the button
+Seat 1: LLL ($126.68 in chips) 
+Seat 2: AAA ($82.32 in chips) 
+Seat 3: DDD ($168.82 in chips) 
+Seat 4: III ($107.68 in chips) 
+Seat 5: KKK ($277.12 in chips) 
+Seat 6: BBB ($44.24 in chips) 
+Seat 7: CCC ($43.19 in chips) 
+LLL: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [9d 9s]
+DDD: folds 
+III: folds 
+KKK: folds 
+BBB: raises $0.93 to $1.43 
+CCC: folds 
+LLL: folds 
+AAA: raises $5.57 to $7.00 
+BBB: calls $7.00 
+*** FLOP *** [7h 6d Kh]
+AAA: bets $4.50 
+BBB: calls $4.50 
+*** TURN *** [7h 6d Kh] [Qh]
+AAA: checks 
+BBB: checks 
+*** RIVER *** [7h 6d Kh Qh] [4c]
+AAA: checks 
+BBB: bets $32.74 
+AAA: folds 
+BBB collected $23.25 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.25 | Rake $0.00 
+Board [7h 6d Kh Qh 4c]
+Seat 1: LLL (small blind) folded before Flop (didn't bet)
+Seat 2: AAA (big blind) folded on the River
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB collected ($23.25)
+Seat 7: CCC (button) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2551558461921613165:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:07:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($126.43 in chips) 
+Seat 2: AAA ($70.82 in chips) 
+Seat 3: DDD ($168.82 in chips) 
+Seat 4: III ($107.68 in chips) 
+Seat 5: KKK ($277.12 in chips) 
+Seat 6: BBB ($55.99 in chips) 
+Seat 7: CCC ($43.19 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Ts 7c]
+III: raises $1.25 to $1.75 
+KKK: folds 
+BBB: folds 
+CCC: folds 
+LLL: calls $1.75 
+AAA: folds 
+DDD: folds 
+*** FLOP *** [2c Td Qd]
+III: checks 
+LLL: checks 
+*** TURN *** [2c Td Qd] [7h]
+III: checks 
+LLL: bets $2.00 
+III: raises $2.00 to $4.00 
+LLL: raises $5.00 to $9.00 
+III: folds 
+Uncalled bet ($9.00) returned to LLL
+LLL collected $12.25 from pot
+LLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.25 | Rake $0.00 
+Board [2c Td Qd 7h]
+Seat 1: LLL (button) collected ($12.25)
+Seat 2: AAA (small blind) folded before Flop (didn't bet)
+Seat 3: DDD (big blind) folded before Flop (didn't bet)
+Seat 4: III folded on the Turn
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2223183924341439208:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:08:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($132.93 in chips) 
+Seat 2: AAA ($70.57 in chips) 
+Seat 3: DDD ($168.32 in chips) 
+Seat 4: III ($101.93 in chips) 
+Seat 5: KKK ($277.12 in chips) 
+Seat 6: BBB ($55.99 in chips) 
+Seat 7: CCC ($43.19 in chips) 
+DDD: posts small blind $0.25 
+III: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Kc Js]
+KKK: folds 
+BBB: folds 
+CCC: calls $0.50 
+LLL: raises $2.50 to $3.00 
+AAA: folds 
+DDD: folds 
+III: calls $3.00 
+CCC: calls $3.00 
+*** FLOP *** [7s 9s Qh]
+III: bets $4.62 
+CCC: folds 
+LLL: raises $8.38 to $13.00 
+III: calls $13.00 
+*** TURN *** [7s 9s Qh] [2d]
+III: checks 
+LLL: bets $16.50 
+III: calls $16.50 
+*** RIVER *** [7s 9s Qh 2d] [5s]
+III: calls $0.50 
+LLL: bets $15.00 
+III: calls $15.00 
+*** SHOW DOWN ***
+LLL: shows [Ah As]
+LLL collected $98.25 from pot
+*** SUMMARY ***
+Total pot $98.25 | Rake $0.00 
+Board [7s 9s Qh 2d 5s]
+Seat 1: LLL showed [Ah As] and won ($98.25)
+Seat 2: AAA (button) folded before Flop (didn't bet)
+Seat 3: DDD (small blind) folded before Flop (didn't bet)
+Seat 4: III (big blind)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: CCC folded on the Flop
+
+
+
+PokerStarsCollection Hand #198720164669366644:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:09:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($183.68 in chips) 
+Seat 2: AAA ($70.57 in chips) 
+Seat 3: DDD ($168.07 in chips) 
+Seat 4: III ($54.43 in chips) 
+Seat 5: KKK ($277.12 in chips) 
+Seat 6: BBB ($55.99 in chips) 
+Seat 7: CCC ($40.19 in chips) 
+III: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [8s Jh]
+BBB: folds 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: raises $1.00 to $1.50 
+III: folds 
+KKK: folds 
+DDD collected $1.25 from pot
+DDD: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.00 
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) collected ($1.25)
+Seat 4: III (small blind) folded before Flop (didn't bet)
+Seat 5: KKK (big blind) folded before Flop (didn't bet)
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #1436173759116939745:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:10:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($183.68 in chips) 
+Seat 2: AAA ($70.57 in chips) 
+Seat 3: DDD ($168.82 in chips) 
+Seat 4: III ($54.18 in chips) 
+Seat 5: KKK ($276.62 in chips) 
+Seat 6: BBB ($55.99 in chips) 
+Seat 7: CCC ($40.19 in chips) 
+KKK: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [2d 8c]
+CCC: calls $0.50 
+LLL: raises $1.75 to $2.25 
+AAA: folds 
+DDD: folds 
+III: folds 
+KKK: folds 
+BBB: folds 
+CCC: calls $2.25 
+*** FLOP *** [4c 8s Ks]
+CCC: bets $2.62 
+LLL: calls $2.62 
+*** TURN *** [4c 8s Ks] [As]
+CCC: bets $5.24 
+LLL: folds 
+Uncalled bet ($5.24) returned to CCC
+CCC collected $10.49 from pot
+CCC: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.49 | Rake $0.00 
+Board [4c 8s Ks As]
+Seat 1: LLL folded on the Turn
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III (button) folded before Flop (didn't bet)
+Seat 5: KKK (small blind) folded before Flop (didn't bet)
+Seat 6: BBB (big blind) folded before Flop (didn't bet)
+Seat 7: CCC collected ($10.49)
+
+
+
+PokerStarsCollection Hand #6671318770006698234:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:11:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($178.81 in chips) 
+Seat 2: AAA ($70.57 in chips) 
+Seat 3: DDD ($168.82 in chips) 
+Seat 4: III ($54.18 in chips) 
+Seat 5: KKK ($276.37 in chips) 
+Seat 6: BBB ($55.49 in chips) 
+Seat 7: CCC ($45.81 in chips) 
+BBB: posts small blind $0.25 
+CCC: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Jh Ac]
+LLL: folds 
+AAA: raises $1.25 to $1.75 
+DDD: calls $1.75 
+III: folds 
+KKK: folds 
+BBB: folds 
+CCC: folds 
+*** FLOP *** [4s Td 8h]
+AAA: checks 
+DDD: checks 
+*** TURN *** [4s Td 8h] [5d]
+AAA: checks 
+DDD: checks 
+*** RIVER *** [4s Td 8h 5d] [3c]
+AAA: checks 
+DDD: checks 
+*** SHOW DOWN ***
+AAA: shows [Jh Ac]
+AAA collected $4.25 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.00 
+Board [4s Td 8h 5d 3c]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA showed [Jh Ac] and won ($4.25)
+Seat 3: DDD
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK (button) folded before Flop (didn't bet)
+Seat 6: BBB (small blind) folded before Flop (didn't bet)
+Seat 7: CCC (big blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2106071833645153308:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:12:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($178.81 in chips) 
+Seat 2: AAA ($73.07 in chips) 
+Seat 3: DDD ($167.07 in chips) 
+Seat 4: III ($54.18 in chips) 
+Seat 5: KKK ($276.37 in chips) 
+Seat 6: BBB ($55.24 in chips) 
+Seat 7: CCC ($45.31 in chips) 
+CCC: posts small blind $0.25 
+LLL: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Qh 3d]
+AAA: folds 
+DDD: raises $1.20 to $1.70 
+III: folds 
+KKK: folds 
+BBB: calls $1.70 
+CCC: folds 
+LLL: folds 
+*** FLOP *** [9s 9d 6d]
+DDD: checks 
+BBB: checks 
+*** TURN *** [9s 9d 6d] [6c]
+DDD: checks 
+BBB: checks 
+*** RIVER *** [9s 9d 6d 6c] [Qs]
+DDD: bets $1.00 
+BBB: folds 
+*** SHOW DOWN ***
+DDD collected $4.15 from pot
+DDD: doesn't show hand 
+BBB: shows [2s 2d]
+*** SUMMARY ***
+Total pot $4.15 | Rake $0.00 
+Board [9s 9d 6d 6c Qs]
+Seat 1: LLL (big blind) folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD collected ($4.15)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB (button) showed [2s 2d] and lost
+Seat 7: CCC (small blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #3292166638771017996:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:13:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #7 is the button
+Seat 1: LLL ($178.31 in chips) 
+Seat 2: AAA ($73.07 in chips) 
+Seat 3: DDD ($169.52 in chips) 
+Seat 4: III ($54.18 in chips) 
+Seat 5: KKK ($276.37 in chips) 
+Seat 6: BBB ($53.54 in chips) 
+Seat 7: CCC ($45.06 in chips) 
+LLL: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [8s 4s]
+DDD: folds 
+III: raises $0.50 to $1.00 
+KKK: raises $2.56 to $3.56 
+BBB: folds 
+CCC: folds 
+LLL: raises $6.44 to $10.00 
+AAA: folds 
+III: folds 
+KKK: folds 
+LLL collected $8.62 from pot
+LLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.62 | Rake $0.00 
+Seat 1: LLL (small blind) collected ($8.62)
+Seat 2: AAA (big blind) folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop
+Seat 5: KKK folded before Flop
+Seat 6: BBB folded before Flop (didn't bet)
+Seat 7: CCC (button) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #4703784807022242546:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:14:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($183.37 in chips) 
+Seat 2: AAA ($72.57 in chips) 
+Seat 3: DDD ($169.52 in chips) 
+Seat 4: III ($53.18 in chips) 
+Seat 5: KKK ($272.81 in chips) 
+Seat 6: BBB ($53.54 in chips) 
+Seat 7: CCC ($45.06 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [2d 6c]
+III: folds 
+KKK: raises $0.93 to $1.43 
+BBB: calls $1.43 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: calls $1.43 
+*** FLOP *** [Th Jc 9s]
+DDD: checks 
+KKK: checks 
+BBB: checks 
+*** TURN *** [Th Jc 9s] [8d]
+DDD: checks 
+KKK: checks 
+BBB: checks 
+*** RIVER *** [Th Jc 9s 8d] [4h]
+DDD: checks 
+KKK: checks 
+BBB: folds 
+*** SHOW DOWN ***
+DDD: shows [8h 9h]
+DDD collected $4.54 from pot
+*** SUMMARY ***
+Total pot $4.54 | Rake $0.00 
+Board [Th Jc 9s 8d 4h]
+Seat 1: LLL (button) folded before Flop (didn't bet)
+Seat 2: AAA (small blind) folded before Flop (didn't bet)
+Seat 3: DDD (big blind) showed [8h 9h] and won ($4.54)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK
+Seat 6: BBB folded on the River
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #5073643537496629770:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:15:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($183.37 in chips) 
+Seat 2: AAA ($72.32 in chips) 
+Seat 3: DDD ($172.63 in chips) 
+Seat 4: III ($53.18 in chips) 
+Seat 5: KKK ($271.38 in chips) 
+Seat 6: BBB ($52.11 in chips) 
+Seat 7: CCC ($45.06 in chips) 
+DDD: posts small blind $0.25 
+III: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [4c 8c]
+KKK: folds 
+BBB: raises $0.93 to $1.43 
+CCC: folds 
+LLL: calls $1.43 
+AAA: folds 
+DDD: folds 
+III: raises $2.27 to $3.70 
+BBB: calls $3.70 
+LLL: calls $3.70 
+*** FLOP *** [Jc Qs 7c]
+III: checks 
+BBB: checks 
+LLL: checks 
+*** TURN *** [Jc Qs 7c] [Js]
+III: checks 
+BBB: bets $6.50 
+LLL: calls $6.50 
+III: folds 
+*** RIVER *** [Jc Qs 7c Js] [Kd]
+BBB: bets $41.91 
+LLL: calls $41.91 
+*** SHOW DOWN ***
+BBB: shows [Ac Jd]
+BBB collected $108.17 from pot
+LLL: shows [2h 2c]
+*** SUMMARY ***
+Total pot $108.17 | Rake $0.00 
+Board [Jc Qs 7c Js Kd]
+Seat 1: LLL showed [2h 2c] and lost
+Seat 2: AAA (button) folded before Flop (didn't bet)
+Seat 3: DDD (small blind) folded before Flop (didn't bet)
+Seat 4: III (big blind) folded on the Turn
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: BBB showed [Ac Jd] and won ($108.17)
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #6625186076829754948:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:16:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($131.26 in chips) 
+Seat 2: AAA ($72.32 in chips) 
+Seat 3: DDD ($172.38 in chips) 
+Seat 4: III ($49.48 in chips) 
+Seat 5: KKK ($271.38 in chips) 
+Seat 6: BBB ($108.17 in chips) 
+Seat 7: CCC ($45.06 in chips) 
+III: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Ts 6s]
+BBB: folds 
+CCC: folds 
+LLL: raises $1.50 to $2.00 
+AAA: folds 
+DDD: raises $4.75 to $6.75 
+III: folds 
+KKK: folds 
+LLL: calls $6.75 
+*** FLOP *** [9s 8h Kc]
+LLL: checks 
+DDD: bets $5.00 
+LLL: calls $5.00 
+*** TURN *** [9s 8h Kc] [5c]
+LLL: checks 
+DDD: bets $16.00 
+LLL: raises $103.51 to $119.51 
+DDD: folds 
+Uncalled bet ($119.51) returned to LLL
+*** SHOW DOWN ***
+LLL collected $56.25 from pot
+LLL: doesn't show hand 
+LLL: shows [Ac Tc]
+BBB: shows [Qc 9c]
+*** SUMMARY ***
+Total pot $56.25 | Rake $0.00 
+Board [9s 8h Kc 5c]
+Seat 1: LLL showed [Ac Tc] and won ($56.25)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) folded on the Turn
+Seat 4: III (small blind) folded before Flop (didn't bet)
+Seat 5: KKK (big blind) folded before Flop (didn't bet)
+Seat 6: BBB showed [Qc 9c] and lost
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #4978825629006816888:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:17:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($159.76 in chips) 
+Seat 2: AAA ($72.32 in chips) 
+Seat 3: DDD ($144.63 in chips) 
+Seat 4: III ($49.23 in chips) 
+Seat 5: KKK ($270.88 in chips) 
+Seat 6: BBB ($108.17 in chips) 
+Seat 7: CCC ($45.06 in chips) 
+KKK: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [5d 2s]
+CCC: folds 
+LLL: raises $2.50 to $3.00 
+AAA: folds 
+DDD: raises $6.75 to $9.75 
+III: folds 
+KKK: folds 
+BBB: folds 
+LLL: folds 
+DDD collected $6.75 from pot
+DDD: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.75 | Rake $0.00 
+Seat 1: LLL folded before Flop
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD collected ($6.75)
+Seat 4: III (button) folded before Flop (didn't bet)
+Seat 5: KKK (small blind) folded before Flop (didn't bet)
+Seat 6: BBB (big blind) folded before Flop (didn't bet)
+Seat 7: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #1441851982261835291:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:18:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($156.76 in chips) 
+Seat 2: AAA ($72.32 in chips) 
+Seat 3: DDD ($148.38 in chips) 
+Seat 4: III ($49.23 in chips) 
+Seat 5: KKK ($270.63 in chips) 
+Seat 6: BBB ($107.67 in chips) 
+Seat 7: CCC ($45.06 in chips) 
+BBB: posts small blind $0.25 
+CCC: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [9c 3s]
+LLL: calls $0.50 
+AAA: folds 
+DDD: calls $0.50 
+III: folds 
+KKK: folds 
+BBB: raises $99.50 to $100.00 
+CCC: folds 
+LLL: folds 
+DDD: folds 
+BBB collected $2.00 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.00 | Rake $0.00 
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK (button) folded before Flop (didn't bet)
+Seat 6: BBB (small blind) collected ($2.00)
+Seat 7: CCC (big blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #561760212050247861:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:19:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #7 is the button
+Seat 1: LLL ($156.26 in chips) 
+Seat 2: AAA ($72.32 in chips) 
+Seat 3: DDD ($147.88 in chips) 
+Seat 4: III ($49.23 in chips) 
+Seat 5: KKK ($270.63 in chips) 
+Seat 6: HHH ($75.00 in chips) 
+Seat 7: BBB ($109.17 in chips) 
+Seat 8: CCC ($44.56 in chips) 
+CCC: posts small blind $0.25 
+LLL: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Jh 4h]
+AAA: folds 
+DDD: folds 
+III: raises $0.50 to $1.00 
+KKK: folds 
+HHH: folds 
+BBB: calls $1.00 
+CCC: folds 
+LLL: raises $4.00 to $5.00 
+III: calls $5.00 
+BBB: calls $5.00 
+*** FLOP *** [6s 4s 4c]
+LLL: checks 
+III: checks 
+BBB: checks 
+*** TURN *** [6s 4s 4c] [Th]
+LLL: checks 
+III: checks 
+BBB: checks 
+*** RIVER *** [6s 4s 4c Th] [Kd]
+LLL: checks 
+III: checks 
+BBB: checks 
+*** SHOW DOWN ***
+LLL: shows [Jd Qh]
+LLL collected $15.25 from pot
+BBB: shows [9h Qs]
+*** SUMMARY ***
+Total pot $15.25 | Rake $0.00 
+Board [6s 4s 4c Th Kd]
+Seat 1: LLL (big blind) showed [Jd Qh] and won ($15.25)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH folded before Flop (didn't bet)
+Seat 7: BBB (button) showed [9h Qs] and lost
+Seat 8: CCC (small blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #8289631356203115074:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:20:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #8 is the button
+Seat 1: LLL ($166.51 in chips) 
+Seat 2: AAA ($72.32 in chips) 
+Seat 3: DDD ($147.88 in chips) 
+Seat 4: III ($44.23 in chips) 
+Seat 5: KKK ($270.63 in chips) 
+Seat 6: HHH ($75.00 in chips) 
+Seat 7: BBB ($104.17 in chips) 
+Seat 8: CCC ($44.31 in chips) 
+LLL: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [6d 3c]
+DDD: folds 
+III: calls $0.50 
+KKK: folds 
+HHH: folds 
+BBB: folds 
+CCC: folds 
+LLL: calls $0.50 
+AAA: checks 
+*** FLOP *** [Ts 4d 9c]
+LLL: checks 
+AAA: checks 
+III: bets $1.50 
+LLL: calls $1.50 
+AAA: folds 
+*** TURN *** [Ts 4d 9c] [Kd]
+LLL: checks 
+III: checks 
+*** RIVER *** [Ts 4d 9c Kd] [3d]
+LLL: checks 
+III: checks 
+*** SHOW DOWN ***
+LLL: shows [9h 7d]
+LLL collected $4.50 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.00 
+Board [Ts 4d 9c Kd 3d]
+Seat 1: LLL (small blind) showed [9h 7d] and won ($4.50)
+Seat 2: AAA (big blind) folded on the Flop
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH folded before Flop (didn't bet)
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: CCC (button) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #5697629954057983180:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:21:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($169.01 in chips) 
+Seat 2: AAA ($71.82 in chips) 
+Seat 3: DDD ($147.88 in chips) 
+Seat 4: III ($42.23 in chips) 
+Seat 5: KKK ($270.63 in chips) 
+Seat 6: HHH ($75.00 in chips) 
+Seat 7: BBB ($104.17 in chips) 
+Seat 8: CCC ($44.31 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [3c 7s]
+III: calls $0.50 
+KKK: calls $0.50 
+HHH: raises $2.00 to $2.50 
+BBB: folds 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+III: calls $2.50 
+KKK: calls $2.50 
+*** FLOP *** [Jh Qs 3d]
+III: calls $0.50 
+KKK: calls $0.50 
+HHH: bets $4.25 
+III: calls $4.25 
+KKK: folds 
+*** TURN *** [Jh Qs 3d] [2c]
+III: checks 
+HHH: bets $10.00 
+III: raises $25.48 to $35.48 
+HHH: folds 
+Uncalled bet ($35.48) returned to III
+III collected $37.25 from pot
+III: doesn't show hand 
+*** SUMMARY ***
+Total pot $37.25 | Rake $0.00 
+Board [Jh Qs 3d 2c]
+Seat 1: LLL (button) folded before Flop (didn't bet)
+Seat 2: AAA (small blind) folded before Flop (didn't bet)
+Seat 3: DDD (big blind) folded before Flop (didn't bet)
+Seat 4: III collected ($37.25)
+Seat 5: KKK folded on the Flop
+Seat 6: HHH folded on the Turn
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #8386140172891253477:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:22:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($169.01 in chips) 
+Seat 2: AAA ($71.57 in chips) 
+Seat 3: DDD ($147.38 in chips) 
+Seat 4: III ($62.73 in chips) 
+Seat 5: KKK ($267.63 in chips) 
+Seat 6: HHH ($58.25 in chips) 
+Seat 7: BBB ($104.17 in chips) 
+Seat 8: CCC ($44.31 in chips) 
+DDD: posts small blind $0.25 
+III: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Ac 2d]
+KKK: folds 
+HHH: folds 
+BBB: folds 
+CCC: folds 
+LLL: folds 
+AAA: raises $1.25 to $1.75 
+DDD: folds 
+III: calls $1.75 
+*** FLOP *** [Ks Kd 2s]
+III: checks 
+AAA: bets $1.87 
+III: folds 
+Uncalled bet ($1.87) returned to AAA
+AAA collected $3.75 from pot
+AAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.00 
+Board [Ks Kd 2s]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA (button) collected ($3.75)
+Seat 3: DDD (small blind) folded before Flop (didn't bet)
+Seat 4: III (big blind) folded on the Flop
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH folded before Flop (didn't bet)
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2391103309678392076:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:23:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($169.01 in chips) 
+Seat 2: AAA ($73.57 in chips) 
+Seat 3: DDD ($147.13 in chips) 
+Seat 4: III ($60.98 in chips) 
+Seat 5: KKK ($267.63 in chips) 
+Seat 6: HHH ($58.25 in chips) 
+Seat 7: BBB ($104.17 in chips) 
+Seat 8: CCC ($44.31 in chips) 
+III: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [4d Kh]
+HHH: folds 
+BBB: raises $0.93 to $1.43 
+CCC: calls $1.43 
+LLL: raises $5.57 to $7.00 
+AAA: folds 
+DDD: raises $13.20 to $20.20 
+III: folds 
+KKK: folds 
+BBB: raises $79.80 to $100.00 
+CCC: folds 
+LLL: folds 
+DDD: folds 
+BBB collected $49.58 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.58 | Rake $0.00 
+Seat 1: LLL folded before Flop
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) folded before Flop
+Seat 4: III (small blind) folded before Flop (didn't bet)
+Seat 5: KKK (big blind) folded before Flop (didn't bet)
+Seat 6: HHH folded before Flop (didn't bet)
+Seat 7: BBB collected ($49.58)
+Seat 8: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #4002262675890274670:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:24:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($162.01 in chips) 
+Seat 2: AAA ($73.57 in chips) 
+Seat 3: DDD ($126.93 in chips) 
+Seat 4: III ($60.73 in chips) 
+Seat 5: KKK ($267.13 in chips) 
+Seat 6: HHH ($58.25 in chips) 
+Seat 7: BBB ($133.55 in chips) 
+Seat 8: CCC ($42.88 in chips) 
+KKK: posts small blind $0.25 
+HHH: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Jd 5d]
+BBB: folds 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+III: calls $0.50 
+KKK: folds 
+HHH: raises $1.50 to $2.00 
+III: folds 
+HHH collected $1.25 from pot
+HHH: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.00 
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III (button) folded before Flop (didn't bet)
+Seat 5: KKK (small blind) folded before Flop (didn't bet)
+Seat 6: HHH (big blind) collected ($1.25)
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #5813752578255183805:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:25:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($162.01 in chips) 
+Seat 2: AAA ($73.57 in chips) 
+Seat 3: DDD ($126.93 in chips) 
+Seat 4: III ($60.23 in chips) 
+Seat 5: KKK ($266.88 in chips) 
+Seat 6: HHH ($59.00 in chips) 
+Seat 7: BBB ($133.55 in chips) 
+Seat 8: CCC ($42.88 in chips) 
+HHH: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [8c Kc]
+CCC: folds 
+LLL: folds 
+AAA: raises $1.25 to $1.75 
+DDD: folds 
+III: folds 
+KKK: folds 
+HHH: calls $1.75 
+BBB: calls $1.75 
+*** FLOP *** [6d 8h Kd]
+HHH: checks 
+BBB: checks 
+AAA: bets $1.75 
+HHH: folds 
+BBB: calls $1.75 
+*** TURN *** [6d 8h Kd] [5c]
+BBB: checks 
+AAA: checks 
+*** RIVER *** [6d 8h Kd 5c] [Qh]
+BBB: checks 
+AAA: bets $17.50 
+BBB: folds 
+AAA collected $8.75 from pot
+AAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.00 
+Board [6d 8h Kd 5c Qh]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA collected ($8.75)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK (button) folded before Flop (didn't bet)
+Seat 6: HHH (small blind) folded on the Flop
+Seat 7: BBB (big blind) folded on the River
+Seat 8: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #892137486212463566:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:26:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($162.01 in chips) 
+Seat 2: AAA ($78.82 in chips) 
+Seat 3: DDD ($126.93 in chips) 
+Seat 4: III ($60.23 in chips) 
+Seat 5: KKK ($266.88 in chips) 
+Seat 6: HHH ($57.25 in chips) 
+Seat 7: BBB ($130.05 in chips) 
+Seat 8: CCC ($42.88 in chips) 
+BBB: posts small blind $0.25 
+CCC: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [8c 6h]
+LLL: folds 
+AAA: folds 
+DDD: folds 
+III: folds 
+KKK: raises $0.93 to $1.43 
+HHH: calls $1.43 
+BBB: folds 
+CCC: folds 
+*** FLOP *** [6d 2c 4h]
+KKK: checks 
+HHH: checks 
+*** TURN *** [6d 2c 4h] [Kh]
+KKK: checks 
+HHH: checks 
+*** RIVER *** [6d 2c 4h Kh] [6s]
+KKK: checks 
+HHH: checks 
+*** SHOW DOWN ***
+KKK: shows [Qh Tc]
+KKK collected $3.61 from pot
+*** SUMMARY ***
+Total pot $3.61 | Rake $0.00 
+Board [6d 2c 4h Kh 6s]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK showed [Qh Tc] and won ($3.61)
+Seat 6: HHH (button)
+Seat 7: BBB (small blind) folded before Flop (didn't bet)
+Seat 8: CCC (big blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #7138482906404397611:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:27:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #7 is the button
+Seat 1: LLL ($162.01 in chips) 
+Seat 2: AAA ($78.82 in chips) 
+Seat 3: DDD ($126.93 in chips) 
+Seat 4: III ($60.23 in chips) 
+Seat 5: KKK ($269.06 in chips) 
+Seat 6: HHH ($55.82 in chips) 
+Seat 7: BBB ($129.80 in chips) 
+Seat 8: CCC ($42.38 in chips) 
+CCC: posts small blind $0.25 
+LLL: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [2h As]
+AAA: folds 
+DDD: folds 
+III: folds 
+KKK: folds 
+HHH: raises $0.75 to $1.25 
+BBB: calls $1.25 
+CCC: calls $1.25 
+LLL: raises $7.25 to $8.50 
+HHH: folds 
+BBB: calls $8.50 
+CCC: folds 
+*** FLOP *** [5c Kh Qh]
+LLL: bets $10.00 
+BBB: folds 
+Uncalled bet ($10.00) returned to LLL
+*** SHOW DOWN ***
+LLL collected $19.50 from pot
+LLL: doesn't show hand 
+LLL: shows [Ah]
+LLL: shows [Jc]
+BBB: shows [2c Ac]
+*** SUMMARY ***
+Total pot $19.50 | Rake $0.00 
+Board [5c Kh Qh]
+Seat 1: LLL (big blind) showed [Jc] and won ($19.50)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH folded before Flop
+Seat 7: BBB (button) showed [2c Ac] and lost
+Seat 8: CCC (small blind) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #7677919351642299970:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:28:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #8 is the button
+Seat 1: LLL ($173.01 in chips) 
+Seat 2: AAA ($78.82 in chips) 
+Seat 3: DDD ($126.93 in chips) 
+Seat 4: III ($60.23 in chips) 
+Seat 5: KKK ($269.06 in chips) 
+Seat 6: HHH ($54.57 in chips) 
+Seat 7: BBB ($121.30 in chips) 
+Seat 8: CCC ($41.13 in chips) 
+LLL: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [7d Td]
+DDD: folds 
+III: calls $0.50 
+KKK: folds 
+HHH: folds 
+BBB: folds 
+CCC: calls $0.50 
+LLL: calls $0.50 
+AAA: raises $3.00 to $3.50 
+III: folds 
+CCC: calls $3.50 
+LLL: calls $3.50 
+*** FLOP *** [2c Jh 2s]
+LLL: checks 
+AAA: checks 
+CCC: checks 
+*** TURN *** [2c Jh 2s] [7s]
+LLL: checks 
+AAA: bets $3.50 
+CCC: folds 
+LLL: calls $3.50 
+*** RIVER *** [2c Jh 2s 7s] [6h]
+LLL: bets $11.00 
+AAA: folds 
+*** SHOW DOWN ***
+LLL collected $18.00 from pot
+LLL: doesn't show hand 
+LLL: shows [Ah 8s]
+*** SUMMARY ***
+Total pot $18.00 | Rake $0.00 
+Board [2c Jh 2s 7s 6h]
+Seat 1: LLL (small blind) showed [Ah 8s] and won ($18.00)
+Seat 2: AAA (big blind) folded on the River
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH folded before Flop (didn't bet)
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: CCC (button) folded on the Turn
+
+
+
+PokerStarsCollection Hand #7227606600606759505:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:29:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($184.01 in chips) 
+Seat 2: AAA ($71.82 in chips) 
+Seat 3: DDD ($126.93 in chips) 
+Seat 4: III ($59.73 in chips) 
+Seat 5: KKK ($269.06 in chips) 
+Seat 6: HHH ($54.57 in chips) 
+Seat 7: BBB ($121.30 in chips) 
+Seat 8: CCC ($37.63 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [6h 3d]
+III: folds 
+KKK: raises $0.93 to $1.43 
+HHH: folds 
+BBB: calls $1.43 
+CCC: folds 
+LLL: calls $1.43 
+AAA: folds 
+DDD: calls $1.43 
+*** FLOP *** [Tc 6c Kc]
+DDD: checks 
+KKK: checks 
+BBB: checks 
+LLL: checks 
+*** TURN *** [Tc 6c Kc] [2c]
+DDD: checks 
+KKK: bets $2.98 
+BBB: folds 
+LLL: folds 
+DDD: folds 
+Uncalled bet ($2.98) returned to KKK
+KKK collected $5.97 from pot
+KKK: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.97 | Rake $0.00 
+Board [Tc 6c Kc 2c]
+Seat 1: LLL (button) folded on the Turn
+Seat 2: AAA (small blind) folded before Flop (didn't bet)
+Seat 3: DDD (big blind) folded on the Turn
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK collected ($5.97)
+Seat 6: HHH folded before Flop (didn't bet)
+Seat 7: BBB folded on the Turn
+Seat 8: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #4265256118051913239:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:30:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($182.58 in chips) 
+Seat 2: AAA ($71.57 in chips) 
+Seat 3: DDD ($125.50 in chips) 
+Seat 4: III ($59.73 in chips) 
+Seat 5: KKK ($273.60 in chips) 
+Seat 6: HHH ($54.57 in chips) 
+Seat 7: BBB ($119.87 in chips) 
+Seat 8: CCC ($37.63 in chips) 
+DDD: posts small blind $0.25 
+III: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [5h 4d]
+KKK: folds 
+HHH: folds 
+BBB: folds 
+CCC: folds 
+LLL: raises $2.00 to $2.50 
+AAA: folds 
+DDD: folds 
+III: folds 
+LLL collected $1.25 from pot
+LLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.00 
+Seat 1: LLL collected ($1.25)
+Seat 2: AAA (button) folded before Flop (didn't bet)
+Seat 3: DDD (small blind) folded before Flop (didn't bet)
+Seat 4: III (big blind) folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH folded before Flop (didn't bet)
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #511490194149377320:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:31:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #3 is the button
+Seat 1: LLL ($183.33 in chips) 
+Seat 2: AAA ($71.57 in chips) 
+Seat 3: DDD ($125.25 in chips) 
+Seat 4: III ($59.23 in chips) 
+Seat 5: KKK ($273.60 in chips) 
+Seat 6: HHH ($54.57 in chips) 
+Seat 7: BBB ($119.87 in chips) 
+Seat 8: CCC ($37.63 in chips) 
+III: posts small blind $0.25 
+KKK: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Qc 7h]
+HHH: raises $0.75 to $1.25 
+BBB: folds 
+CCC: folds 
+LLL: raises $3.25 to $4.50 
+AAA: folds 
+DDD: calls $4.50 
+III: folds 
+KKK: folds 
+HHH: calls $4.50 
+*** FLOP *** [Th 9s 8d]
+HHH: checks 
+LLL: bets $7.50 
+DDD: calls $7.50 
+HHH: calls $7.50 
+*** TURN *** [Th 9s 8d] [3c]
+HHH: checks 
+LLL: bets $28.00 
+DDD: folds 
+HHH: folds 
+Uncalled bet ($28.00) returned to LLL
+LLL collected $36.75 from pot
+LLL: doesn't show hand 
+*** SUMMARY ***
+Total pot $36.75 | Rake $0.00 
+Board [Th 9s 8d 3c]
+Seat 1: LLL collected ($36.75)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD (button) folded on the Turn
+Seat 4: III (small blind) folded before Flop (didn't bet)
+Seat 5: KKK (big blind) folded before Flop (didn't bet)
+Seat 6: HHH folded on the Turn
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #8027760659218953453:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:32:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #4 is the button
+Seat 1: LLL ($208.08 in chips) 
+Seat 2: AAA ($71.57 in chips) 
+Seat 3: DDD ($113.25 in chips) 
+Seat 4: III ($58.98 in chips) 
+Seat 5: KKK ($273.10 in chips) 
+Seat 6: HHH ($42.57 in chips) 
+Seat 7: BBB ($119.87 in chips) 
+Seat 8: JJJ ($50.00 in chips) 
+Seat 9: CCC ($37.63 in chips) 
+KKK: posts small blind $0.25 
+HHH: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [As Jd]
+BBB: raises $0.62 to $1.12 
+JJJ: calls $1.12 
+CCC: folds 
+LLL: folds 
+AAA: raises $2.63 to $3.75 
+DDD: folds 
+III: folds 
+KKK: folds 
+HHH: folds 
+BBB: raises $4.75 to $8.50 
+JJJ: folds 
+AAA: folds 
+BBB collected $9.37 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.37 | Rake $0.00 
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III (button) folded before Flop (didn't bet)
+Seat 5: KKK (small blind) folded before Flop (didn't bet)
+Seat 6: HHH (big blind) folded before Flop (didn't bet)
+Seat 7: BBB collected ($9.37)
+Seat 8: JJJ folded before Flop (didn't bet)
+Seat 9: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #2057873942010652641:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:33:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #5 is the button
+Seat 1: LLL ($208.08 in chips) 
+Seat 2: AAA ($67.82 in chips) 
+Seat 3: DDD ($113.25 in chips) 
+Seat 4: III ($58.98 in chips) 
+Seat 5: KKK ($272.85 in chips) 
+Seat 6: HHH ($42.07 in chips) 
+Seat 7: BBB ($125.49 in chips) 
+Seat 8: JJJ ($48.88 in chips) 
+Seat 9: CCC ($37.63 in chips) 
+HHH: posts small blind $0.25 
+BBB: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [7c 3d]
+JJJ: calls $0.50 
+CCC: folds 
+LLL: folds 
+AAA: folds 
+DDD: folds 
+III: raises $1.75 to $2.25 
+KKK: raises $4.81 to $7.06 
+HHH: folds 
+BBB: raises $9.94 to $17.00 
+JJJ: folds 
+III: calls $17.00 
+KKK: folds 
+*** FLOP *** [9h Qh 3c]
+BBB: bets $12.00 
+III: calls $12.00 
+*** TURN *** [9h Qh 3c] [As]
+BBB: bets $96.49 
+III: folds 
+Uncalled bet ($96.49) returned to BBB
+BBB collected $65.81 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $65.81 | Rake $0.00 
+Board [9h Qh 3c As]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded on the Turn
+Seat 5: KKK (button) folded before Flop
+Seat 6: HHH (small blind) folded before Flop (didn't bet)
+Seat 7: BBB (big blind) collected ($65.81)
+Seat 8: JJJ folded before Flop (didn't bet)
+Seat 9: CCC folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #1329052370379813880:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:34:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #6 is the button
+Seat 1: LLL ($208.08 in chips) 
+Seat 2: AAA ($67.82 in chips) 
+Seat 3: DDD ($113.25 in chips) 
+Seat 4: III ($29.98 in chips) 
+Seat 5: KKK ($265.79 in chips) 
+Seat 6: HHH ($91.82 in chips) 
+Seat 7: BBB ($162.30 in chips) 
+Seat 8: JJJ ($48.38 in chips) 
+Seat 9: CCC ($37.63 in chips) 
+BBB: posts small blind $0.25 
+JJJ: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Jd Jc]
+CCC: calls $0.50 
+LLL: folds 
+AAA: raises $1.75 to $2.25 
+DDD: folds 
+III: folds 
+KKK: folds 
+HHH: folds 
+BBB: folds 
+JJJ: folds 
+CCC: calls $2.25 
+*** FLOP *** [5d 6d As]
+CCC: bets $3.93 
+AAA: calls $3.93 
+*** TURN *** [5d 6d As] [6c]
+CCC: bets $6.55 
+AAA: calls $6.55 
+*** RIVER *** [5d 6d As 6c] [2d]
+CCC: bets $24.90 
+AAA: calls $24.90 
+*** SHOW DOWN ***
+CCC: shows [Kd 4d]
+CCC collected $76.01 from pot
+AAA: shows [Jd Jc]
+*** SUMMARY ***
+Total pot $76.01 | Rake $0.00 
+Board [5d 6d As 6c 2d]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA showed [Jd Jc] and lost
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH (button) folded before Flop (didn't bet)
+Seat 7: BBB (small blind) folded before Flop (didn't bet)
+Seat 8: JJJ (big blind) folded before Flop (didn't bet)
+Seat 9: CCC showed [Kd 4d] and won ($76.01)
+
+
+
+PokerStarsCollection Hand #6915481687110768133:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:35:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #7 is the button
+Seat 1: LLL ($208.08 in chips) 
+Seat 2: AAA ($30.19 in chips) 
+Seat 3: DDD ($113.25 in chips) 
+Seat 4: III ($29.98 in chips) 
+Seat 5: KKK ($265.79 in chips) 
+Seat 6: HHH ($91.82 in chips) 
+Seat 7: BBB ($162.05 in chips) 
+Seat 8: JJJ ($47.88 in chips) 
+Seat 9: CCC ($76.01 in chips) 
+JJJ: posts small blind $0.25 
+CCC: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Jh 9h]
+LLL: folds 
+AAA: raises $1.00 to $1.50 
+DDD: raises $6.50 to $8.00 
+III: folds 
+KKK: folds 
+HHH: folds 
+BBB: folds 
+JJJ: folds 
+CCC: calls $8.00 
+AAA: folds 
+*** FLOP *** [8c Ad 4h]
+CCC: bets $8.87 
+DDD: calls $8.87 
+*** TURN *** [8c Ad 4h] [9s]
+CCC: bets $17.74 
+DDD: calls $17.74 
+*** RIVER *** [8c Ad 4h 9s] [9c]
+CCC: bets $35.48 
+DDD: raises $43.16 to $78.64 
+CCC: calls $41.40 
+*** SHOW DOWN ***
+DDD: shows [As Kc]
+DDD collected $153.77 from pot
+CCC: shows [Ac Qh]
+*** SUMMARY ***
+Total pot $153.77 | Rake $0.00 
+Board [8c Ad 4h 9s 9c]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop
+Seat 3: DDD showed [As Kc] and won ($153.77)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH folded before Flop (didn't bet)
+Seat 7: BBB (button) folded before Flop (didn't bet)
+Seat 8: JJJ (small blind) folded before Flop (didn't bet)
+Seat 9: CCC (big blind) showed [Ac Qh] and lost
+
+
+
+PokerStarsCollection Hand #1208837801745386501:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:36:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #8 is the button
+Seat 1: LLL ($208.08 in chips) 
+Seat 2: AAA ($28.69 in chips) 
+Seat 3: DDD ($191.01 in chips) 
+Seat 4: III ($29.98 in chips) 
+Seat 5: KKK ($265.79 in chips) 
+Seat 6: HHH ($91.82 in chips) 
+Seat 7: BBB ($162.05 in chips) 
+Seat 8: JJJ ($47.63 in chips) 
+LLL: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [9h 7d]
+AAA: folds 
+DDD: folds 
+III: folds 
+KKK: folds 
+HHH: raises $0.75 to $1.25 
+BBB: raises $3.00 to $4.25 
+JJJ: folds 
+LLL: folds 
+HHH: calls $4.25 
+*** FLOP *** [Js Qs Kc]
+HHH: checks 
+BBB: bets $3.50 
+HHH: calls $3.50 
+*** TURN *** [Js Qs Kc] [9c]
+HHH: checks 
+BBB: checks 
+*** RIVER *** [Js Qs Kc 9c] [Qd]
+HHH: bets $10.00 
+BBB: folds 
+*** SHOW DOWN ***
+HHH collected $16.00 from pot
+HHH: doesn't show hand 
+BBB: shows [As Ah]
+*** SUMMARY ***
+Total pot $16.00 | Rake $0.00 
+Board [Js Qs Kc 9c Qd]
+Seat 1: LLL (big blind) folded before Flop (didn't bet)
+Seat 2: AAA folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH collected ($16.00)
+Seat 7: BBB showed [As Ah] and lost
+Seat 8: JJJ (button) folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #7560138380145097453:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:37:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #10 is the button
+Seat 1: LLL ($207.58 in chips) 
+Seat 2: AAA ($28.69 in chips) 
+Seat 3: DDD ($191.01 in chips) 
+Seat 4: III ($29.98 in chips) 
+Seat 5: KKK ($265.79 in chips) 
+Seat 6: HHH ($100.07 in chips) 
+Seat 7: BBB ($154.30 in chips) 
+Seat 8: JJJ ($47.63 in chips) 
+LLL: posts small blind $0.25 
+AAA: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [8h Th]
+DDD: folds 
+III: calls $0.50 
+KKK: folds 
+HHH: raises $1.25 to $1.75 
+BBB: calls $1.75 
+JJJ: raises $2.25 to $4.00 
+LLL: raises $9.00 to $13.00 
+AAA: folds 
+III: folds 
+HHH: folds 
+BBB: folds 
+JJJ: calls $13.00 
+*** FLOP *** [9d 3d 9c]
+LLL: bets $8.00 
+JJJ: calls $8.00 
+*** TURN *** [9d 3d 9c] [Jd]
+LLL: bets $186.58 
+JJJ: folds 
+Uncalled bet ($186.58) returned to LLL
+*** SHOW DOWN ***
+LLL collected $46.50 from pot
+LLL: doesn't show hand 
+LLL: shows [7s 2c]
+*** SUMMARY ***
+Total pot $46.50 | Rake $0.00 
+Board [9d 3d 9c Jd]
+Seat 1: LLL (small blind) showed [7s 2c] and won ($46.50)
+Seat 2: AAA (big blind) folded before Flop (didn't bet)
+Seat 3: DDD folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: KKK folded before Flop (didn't bet)
+Seat 6: HHH folded before Flop
+Seat 7: BBB folded before Flop (didn't bet)
+Seat 8: JJJ folded on the Turn
+
+
+
+PokerStarsCollection Hand #7290917466969948886:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:38:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #1 is the button
+Seat 1: LLL ($243.58 in chips) 
+Seat 2: AAA ($26.69 in chips) 
+Seat 3: DDD ($189.51 in chips) 
+Seat 4: III ($27.98 in chips) 
+Seat 5: HHH ($96.82 in chips) 
+Seat 6: BBB ($151.05 in chips) 
+Seat 7: JJJ ($25.13 in chips) 
+AAA: posts small blind $0.25 
+DDD: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Jh 8h]
+III: folds 
+HHH: raises $0.75 to $1.25 
+BBB: calls $1.25 
+JJJ: folds 
+LLL: folds 
+AAA: calls $1.25 
+DDD: folds 
+*** FLOP *** [As Qd 7d]
+AAA: checks 
+HHH: bets $1.50 
+BBB: calls $1.50 
+AAA: folds 
+*** TURN *** [As Qd 7d] [9d]
+HHH: checks 
+BBB: bets $3.50 
+HHH: folds 
+Uncalled bet ($3.50) returned to BBB
+BBB collected $7.25 from pot
+BBB: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.25 | Rake $0.00 
+Board [As Qd 7d 9d]
+Seat 1: LLL (button) folded before Flop (didn't bet)
+Seat 2: AAA (small blind) folded on the Flop
+Seat 3: DDD (big blind) folded before Flop (didn't bet)
+Seat 4: III folded before Flop (didn't bet)
+Seat 5: HHH folded on the Turn
+Seat 6: BBB collected ($7.25)
+Seat 7: JJJ folded before Flop (didn't bet)
+
+
+
+PokerStarsCollection Hand #8587909351046782485:  Hold'em No Limit ($0.25/$0.50 USD) - 2024/01/01 02:39:00 ET
+Table 'PokerNow GAME_ID_001' 9-max Seat #2 is the button
+Seat 1: LLL ($243.58 in chips) 
+Seat 2: AAA ($25.44 in chips) 
+Seat 3: DDD ($189.01 in chips) 
+Seat 4: III ($27.98 in chips) 
+Seat 5: HHH ($94.07 in chips) 
+Seat 6: BBB ($155.55 in chips) 
+Seat 7: JJJ ($25.13 in chips) 
+DDD: posts small blind $0.25 
+III: posts big blind $0.50 
+*** HOLE CARDS ***
+Dealt to AAA [Kh Ad]
+HHH: folds 
+BBB: raises $0.93 to $1.43 
+JJJ: folds 
+LLL: folds 
+AAA: raises $3.07 to $4.50 
+DDD: folds 
+III: folds 
+BBB: raises $151.05 to $155.55 
+AAA: calls $25.44 
+AAA: shows [Kh Ad]
+BBB: shows [Qh Ah]
+*** FLOP *** [6s 5c 3d]
+*** TURN *** [6s 5c 3d] [2d]
+*** RIVER *** [6s 5c 3d 2d] [Qd]
+*** FLOP *** [Kd Jd Js]
+*** TURN *** [Kd Jd Js] [Ts]
+*** RIVER *** [Kd Jd Js Ts] [6h]
+*** SHOW DOWN ***
+BBB collected $25.82 from pot
+BBB collected $25.81 from pot
+*** SUMMARY ***
+Total pot $25.81 | Rake $-25.82 
+Board [Kd Jd Js Ts 6h]
+Seat 1: LLL folded before Flop (didn't bet)
+Seat 2: AAA (button) showed [Kh Ad] and lost
+Seat 3: DDD (small blind) folded before Flop (didn't bet)
+Seat 4: III (big blind) folded before Flop (didn't bet)
+Seat 5: HHH folded before Flop (didn't bet)
+Seat 6: BBB showed [Qh Ah] and won ($25.81)
+Seat 7: JJJ folded before Flop (didn't bet)
+
+
+
