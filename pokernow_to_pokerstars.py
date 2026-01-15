@@ -65,7 +65,6 @@ def write_hand(hand, out, hero, game_id):
     total_pot = 0
     total_winnings = 0
     last_bet_amount = 0
-    last_bettor = None
     street_bet = 0  # Will be set by big blind
 
     for seat in sorted(players.keys()):
@@ -102,7 +101,6 @@ def write_hand(hand, out, hero, game_id):
                 if t == 2:  # Big blind
                     bb_seat = seat
                     last_bet_amount = pl['value']
-                    last_bettor = seat
                     street_bet = pl['value']  # Initialize street bet
                 else:  # Small blind
                     sb_seat = seat
@@ -182,7 +180,6 @@ def write_hand(hand, out, hero, game_id):
                         player_actions[seat].append("bet")
                     street_bet = bet_amount
                     last_bet_amount = bet_amount
-                    last_bettor = seat
                     # Mark this as a potential uncalled bet (will be cleared if called)
                     uncalled_bet_seat = seat
                     uncalled_bet_amount = bet_amount
@@ -192,7 +189,6 @@ def write_hand(hand, out, hero, game_id):
                     player_actions[seat].append("bet")
                     street_bet = bet_amount
                     last_bet_amount = bet_amount
-                    last_bettor = seat
                     uncalled_bet_seat = seat
                     uncalled_bet_amount = bet_amount
                     bet_was_called = False
